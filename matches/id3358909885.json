@@ -1,0 +1,8014 @@
+{
+  "match_id": 3358909885,
+  "barracks_status_dire": 63,
+  "barracks_status_radiant": 63,
+  "chat": [
+    {
+      "time": 2,
+      "type": "chatwheel",
+      "key": "104",
+      "slot": 1,
+      "player_slot": 1
+    },
+    {
+      "time": 8,
+      "type": "chatwheel",
+      "key": "104",
+      "slot": 4,
+      "player_slot": 4
+    },
+    {
+      "time": 600,
+      "type": "chat",
+      "unit": "⊙︿⊙ 生姜 ない",
+      "key": "gg",
+      "slot": 1,
+      "player_slot": 1
+    }
+  ],
+  "cluster": 111,
+  "cosmetics": {
+    "4440": 1,
+    "5032": 0,
+    "5034": 0,
+    "5035": 0,
+    "5037": 0,
+    "5433": 132,
+    "5462": 130,
+    "5739": 132,
+    "6400": 131,
+    "6401": 131,
+    "6402": 131,
+    "6403": 131,
+    "6686": 1,
+    "6784": 1,
+    "7067": 130,
+    "7068": 130,
+    "7073": 130,
+    "7074": 130,
+    "7385": 1,
+    "8371": 3,
+    "9158": 0,
+    "9205": 1,
+    "9358": 4,
+    "9359": 4,
+    "9360": 4,
+    "9371": 4,
+    "9372": 4,
+    "9373": 4,
+    "10133": 131,
+    "10935": 2,
+    "11521": 1,
+    "11998": 1,
+    "17262": 3
+  },
+  "dire_score": 3,
+  "dire_team_id": null,
+  "draft_timings": null,
+  "duration": 595,
+  "engine": 1,
+  "first_blood_time": 130,
+  "game_mode": 22,
+  "human_players": 10,
+  "leagueid": 0,
+  "lobby_type": 0,
+  "match_seq_num": 2929761334,
+  "negative_votes": 0,
+  "objectives": [
+    {
+      "time": 131,
+      "type": "CHAT_MESSAGE_FIRSTBLOOD",
+      "slot": 8,
+      "key": 1,
+      "player_slot": 131
+    },
+    {
+      "time": 395,
+      "type": "building_kill",
+      "unit": "npc_dota_hero_shadow_shaman",
+      "key": "npc_dota_badguys_tower1_mid",
+      "slot": 3,
+      "player_slot": 3
+    },
+    {
+      "time": 438,
+      "type": "building_kill",
+      "unit": "npc_dota_creep_goodguys_ranged",
+      "key": "npc_dota_badguys_tower1_top"
+    },
+    {
+      "time": 595,
+      "type": "building_kill",
+      "unit": "dota_unknown",
+      "key": "npc_dota_badguys_fort"
+    }
+  ],
+  "picks_bans": null,
+  "positive_votes": 0,
+  "radiant_gold_adv": [
+    0,
+    44,
+    435,
+    92,
+    -197,
+    281,
+    773,
+    2236,
+    2764,
+    3799,
+    322,
+    322,
+    322
+  ],
+  "radiant_score": 5,
+  "radiant_team_id": null,
+  "radiant_win": true,
+  "radiant_xp_adv": [
+    0,
+    59,
+    299,
+    26,
+    -380,
+    484,
+    1166,
+    2018,
+    1708,
+    2631,
+    3628,
+    3628,
+    3628
+  ],
+  "skill": 1,
+  "start_time": 1502003021,
+  "teamfights": [],
+  "tower_status_dire": 2038,
+  "tower_status_radiant": 2047,
+  "version": 20,
+  "players": [
+    {
+      "match_id": 3358909885,
+      "player_slot": 0,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5330,
+        5329,
+        5330,
+        5328,
+        5330,
+        5331
+      ],
+      "ability_uses": {
+        "chen_holy_persuasion": 7,
+        "chen_test_of_faith": 1,
+        "chen_penitence": 1
+      },
+      "account_id": 89311084,
+      "actions": {
+        "1": 1808,
+        "2": 63,
+        "3": 3,
+        "4": 282,
+        "5": 4,
+        "6": 20,
+        "7": 2,
+        "8": 10,
+        "10": 11,
+        "11": 6,
+        "15": 8,
+        "16": 11,
+        "17": 2,
+        "33": 11
+      },
+      "additional_units": null,
+      "assists": 1,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 1,
+      "connection_log": null,
+      "creeps_stacked": 1,
+      "damage": {
+        "npc_dota_neutral_satyr_trickster": 342,
+        "npc_dota_neutral_satyr_soulstealer": 601,
+        "npc_dota_hero_lion": 430,
+        "npc_dota_hero_meepo": 591,
+        "npc_dota_creep_badguys_melee": 3803,
+        "npc_dota_creep_badguys_ranged": 1818,
+        "npc_dota_neutral_wildkin": 1114,
+        "npc_dota_badguys_tower1_top": 139,
+        "npc_dota_neutral_polar_furbolg_champion": 703,
+        "npc_dota_neutral_alpha_wolf": 634,
+        "npc_dota_neutral_giant_wolf": 1092,
+        "npc_dota_neutral_centaur_outrunner": 1180,
+        "npc_dota_neutral_mud_golem": 1691,
+        "npc_dota_neutral_mud_golem_split": 1066,
+        "npc_dota_neutral_harpy_scout": 805
+      },
+      "damage_inflictor": {
+        "satyr_hellcaller_shockwave": 344,
+        "null": 228,
+        "tornado_tempest": 381,
+        "chen_test_of_faith": 68
+      },
+      "damage_inflictor_received": {
+        "null": 321,
+        "lion_impale": 120
+      },
+      "damage_taken": {
+        "npc_dota_creep_badguys_melee": 14,
+        "npc_dota_hero_lion": 441,
+        "npc_dota_badguys_tower1_top": 172,
+        "npc_dota_neutral_giant_wolf": 108,
+        "npc_dota_creep_badguys_ranged": 21
+      },
+      "damage_targets": null,
+      "deaths": 0,
+      "denies": 0,
+      "dn_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "firstblood_claimed": 0,
+      "gold": 1227,
+      "gold_per_min": 241,
+      "gold_reasons": {
+        "0": 805,
+        "11": 240,
+        "12": 368,
+        "13": 703
+      },
+      "gold_spent": 2275,
+      "gold_t": [
+        0,
+        125,
+        265,
+        399,
+        577,
+        844,
+        988,
+        1284,
+        1495,
+        1946,
+        2393,
+        2393,
+        2393
+      ],
+      "hero_damage": 1021,
+      "hero_healing": 0,
+      "hero_hits": {
+        "satyr_hellcaller_shockwave": 3,
+        "null": 7,
+        "tornado_tempest": 168,
+        "chen_test_of_faith": 1
+      },
+      "hero_id": 66,
+      "item_0": 0,
+      "item_1": 0,
+      "item_2": 0,
+      "item_3": 180,
+      "item_4": 0,
+      "item_5": 0,
+      "item_neutral": 0,
+      "item_uses": {
+        "tango": 4,
+        "smoke_of_deceit": 2,
+        "clarity": 2,
+        "arcane_boots": 3
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_neutral_satyr_trickster": 1,
+        "npc_dota_neutral_satyr_soulstealer": 1,
+        "npc_dota_creep_badguys_melee": 5,
+        "npc_dota_neutral_wildkin": 3,
+        "npc_dota_creep_badguys_ranged": 3,
+        "npc_dota_neutral_polar_furbolg_champion": 1,
+        "npc_dota_neutral_alpha_wolf": 1,
+        "npc_dota_neutral_giant_wolf": 2,
+        "npc_dota_neutral_centaur_outrunner": 3,
+        "npc_dota_neutral_mud_golem": 2,
+        "npc_dota_neutral_mud_golem_split": 4,
+        "npc_dota_neutral_harpy_scout": 2,
+        "npc_dota_hero_lion": 1
+      },
+      "killed_by": {},
+      "kills": 1,
+      "kills_log": [
+        {
+          "time": 570,
+          "key": "npc_dota_hero_lion"
+        }
+      ],
+      "lane_pos": {
+        "70": {
+          "162": 2
+        },
+        "72": {
+          "160": 1,
+          "162": 3,
+          "164": 1
+        },
+        "74": {
+          "74": 5,
+          "158": 1,
+          "160": 1,
+          "162": 1,
+          "164": 3,
+          "168": 2
+        },
+        "76": {
+          "76": 1,
+          "104": 1,
+          "106": 2,
+          "130": 1,
+          "144": 1,
+          "148": 5,
+          "150": 6,
+          "152": 5,
+          "154": 6,
+          "156": 1,
+          "158": 1,
+          "160": 2,
+          "162": 3,
+          "164": 4,
+          "166": 3,
+          "168": 1,
+          "170": 1,
+          "172": 1
+        },
+        "78": {
+          "78": 1,
+          "104": 3,
+          "106": 2,
+          "108": 3,
+          "112": 1,
+          "114": 1,
+          "126": 1,
+          "128": 1,
+          "130": 1,
+          "132": 1,
+          "134": 3,
+          "136": 2,
+          "138": 3,
+          "140": 2,
+          "142": 1,
+          "146": 2,
+          "148": 8,
+          "150": 3,
+          "152": 17,
+          "154": 3,
+          "156": 2,
+          "158": 2,
+          "160": 3,
+          "162": 11,
+          "164": 4,
+          "166": 1,
+          "168": 1,
+          "170": 1
+        },
+        "80": {
+          "80": 1,
+          "106": 1,
+          "114": 1,
+          "126": 1,
+          "130": 7,
+          "132": 4,
+          "134": 1,
+          "136": 4,
+          "138": 2,
+          "140": 2,
+          "142": 1,
+          "144": 3,
+          "146": 3,
+          "148": 1,
+          "152": 1,
+          "154": 3,
+          "156": 3,
+          "158": 10,
+          "160": 1,
+          "162": 3,
+          "164": 1,
+          "166": 2,
+          "168": 1,
+          "170": 4,
+          "172": 7,
+          "174": 2
+        },
+        "82": {
+          "82": 1,
+          "106": 1,
+          "116": 1,
+          "128": 1,
+          "130": 9,
+          "132": 3,
+          "134": 2,
+          "138": 1,
+          "140": 1,
+          "142": 3,
+          "144": 2,
+          "154": 3,
+          "156": 1,
+          "160": 1,
+          "162": 1,
+          "164": 2,
+          "166": 3,
+          "168": 3,
+          "170": 10,
+          "172": 8,
+          "174": 4
+        },
+        "84": {
+          "82": 1,
+          "106": 1,
+          "116": 1,
+          "130": 3,
+          "138": 3,
+          "140": 2,
+          "156": 2,
+          "158": 2,
+          "160": 3,
+          "162": 1,
+          "164": 4,
+          "170": 3,
+          "172": 9,
+          "174": 4
+        },
+        "86": {
+          "84": 1,
+          "86": 1,
+          "106": 1,
+          "118": 1,
+          "130": 3,
+          "136": 3,
+          "138": 1,
+          "156": 1,
+          "158": 2,
+          "162": 1,
+          "164": 1,
+          "174": 2
+        },
+        "88": {
+          "88": 1,
+          "90": 1,
+          "92": 1,
+          "106": 1,
+          "118": 1,
+          "128": 3,
+          "130": 1,
+          "132": 2,
+          "136": 6,
+          "156": 1,
+          "158": 2,
+          "164": 2,
+          "176": 2,
+          "178": 7
+        },
+        "90": {
+          "96": 2,
+          "106": 1,
+          "126": 15,
+          "128": 17,
+          "130": 1,
+          "132": 2,
+          "134": 4,
+          "158": 7,
+          "164": 1
+        },
+        "92": {
+          "98": 1,
+          "104": 1,
+          "120": 1,
+          "124": 3,
+          "126": 30,
+          "128": 13,
+          "130": 10,
+          "132": 6,
+          "134": 5,
+          "136": 1,
+          "164": 1
+        },
+        "94": {
+          "100": 1,
+          "104": 1,
+          "120": 1,
+          "124": 3,
+          "130": 8,
+          "132": 59,
+          "140": 1,
+          "164": 2
+        },
+        "96": {
+          "102": 2,
+          "120": 3,
+          "122": 9,
+          "142": 1,
+          "164": 1,
+          "166": 1
+        },
+        "98": {
+          "102": 2,
+          "120": 2,
+          "122": 4,
+          "144": 1,
+          "162": 1,
+          "166": 4,
+          "168": 1
+        },
+        "100": {
+          "104": 2,
+          "118": 2,
+          "146": 1,
+          "160": 1,
+          "168": 1,
+          "170": 15
+        },
+        "102": {
+          "116": 2,
+          "148": 1,
+          "154": 1,
+          "156": 1,
+          "158": 1,
+          "162": 1,
+          "164": 1,
+          "166": 11,
+          "170": 2
+        },
+        "104": {
+          "114": 9,
+          "150": 1,
+          "160": 1,
+          "168": 1
+        },
+        "106": {
+          "160": 1
+        },
+        "108": {
+          "162": 1,
+          "164": 1
+        },
+        "110": {
+          "166": 1,
+          "168": 1,
+          "170": 2
+        },
+        "112": {
+          "168": 1,
+          "170": 2,
+          "172": 7,
+          "174": 1
+        },
+        "114": {
+          "168": 1,
+          "174": 2,
+          "176": 3
+        },
+        "116": {
+          "166": 1,
+          "168": 2,
+          "174": 2
+        },
+        "118": {
+          "166": 3
+        },
+        "120": {
+          "166": 3
+        },
+        "122": {
+          "164": 1,
+          "166": 1
+        }
+      },
+      "last_hits": 28,
+      "leaver_status": 0,
+      "level": 6,
+      "lh_t": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        11,
+        14,
+        16,
+        16,
+        24,
+        28,
+        28,
+        28
+      ],
+      "life_state": {
+        "0": 741
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 68,
+        "max": true,
+        "inflictor": "satyr_hellcaller_shockwave",
+        "unit": "npc_dota_hero_chen",
+        "key": "npc_dota_hero_lion",
+        "value": 120,
+        "slot": 0,
+        "player_slot": 0
+      },
+      "multi_kills": {},
+      "net_worth": 2527,
+      "obs": {},
+      "obs_left_log": [],
+      "obs_log": [],
+      "obs_placed": 0,
+      "party_id": 0,
+      "party_size": 5,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pred_vict": false,
+      "purchase": {
+        "tango": 1,
+        "smoke_of_deceit": 1,
+        "clarity": 1,
+        "flying_courier": 1,
+        "boots": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": -89,
+          "key": "clarity"
+        },
+        {
+          "time": 194,
+          "key": "flying_courier"
+        },
+        {
+          "time": 198,
+          "key": "boots"
+        },
+        {
+          "time": 449,
+          "key": "arcane_boots"
+        },
+        {
+          "time": 449,
+          "key": "energy_booster"
+        }
+      ],
+      "randomed": false,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 3,
+      "runes": {
+        "5": 3
+      },
+      "runes_log": [
+        {
+          "time": 204,
+          "key": 5
+        },
+        {
+          "time": 244,
+          "key": 5
+        },
+        {
+          "time": 497,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 0,
+      "teamfight_participation": 0.4,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 139,
+      "towers_killed": 0,
+      "xp_per_min": 236,
+      "xp_reasons": {
+        "0": 228,
+        "1": 380,
+        "2": 1739
+      },
+      "xp_t": [
+        0,
+        83,
+        249,
+        450,
+        556,
+        866,
+        965,
+        1288,
+        1348,
+        1934,
+        2346,
+        2346,
+        2346
+      ],
+      "team_number": 0,
+      "team_slot": 0,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "personaname": "phOwObos",
+      "name": null,
+      "last_login": "2022-01-20T03:35:40.640Z",
+      "rank_tier": 23,
+      "computed_mmr": null,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": true,
+      "win": 1,
+      "lose": 0,
+      "total_gold": 2389,
+      "total_xp": 2340,
+      "kills_per_min": 0.10084033613445378,
+      "kda": 2,
+      "abandons": 0,
+      "neutral_kills": 20,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 8,
+      "hero_kills": 1,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 0,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.4836297493936944,
+      "lane_efficiency_pct": 48,
+      "lane": 3,
+      "lane_role": 3,
+      "is_roaming": false,
+      "purchase_time": {
+        "tango": -89,
+        "smoke_of_deceit": -89,
+        "clarity": -89,
+        "flying_courier": 194,
+        "boots": 198,
+        "arcane_boots": 449,
+        "energy_booster": 449
+      },
+      "first_purchase_time": {
+        "tango": -89,
+        "smoke_of_deceit": -89,
+        "clarity": -89,
+        "flying_courier": 194,
+        "boots": 198,
+        "arcane_boots": 449,
+        "energy_booster": 449
+      },
+      "item_win": {
+        "tango": 1,
+        "smoke_of_deceit": 1,
+        "clarity": 1,
+        "flying_courier": 1,
+        "boots": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1
+      },
+      "item_usage": {
+        "tango": 1,
+        "smoke_of_deceit": 1,
+        "clarity": 1,
+        "flying_courier": 1,
+        "boots": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1
+      },
+      "actions_per_min": 225,
+      "life_state_dead": 0,
+      "cosmetics": [
+        {
+          "item_id": 5032,
+          "name": "Gemmed Pauldrons of the Priest Kings",
+          "prefab": "wearable",
+          "creation_date": "2013-06-05T00:00:00.000Z",
+          "image_inventory": "econ/items/chen/shoulder_desert/shoulder_desert",
+          "image_path": "icons/econ/items/chen/shoulder_desert/shoulder_desert.2f410b0d92ac664e0f4b54dbdd9ca79436c22de0.png",
+          "item_description": "#DOTA_Item_Desc_Gemmed_Pauldrons_of_the_Priest_Kings",
+          "item_name": "#DOTA_Item_Gemmed_Pauldrons_of_the_Priest_Kings",
+          "item_rarity": null,
+          "item_type_name": "#DOTA_WearableType_Pauldrons",
+          "used_by_heroes": "npc_dota_hero_chen"
+        },
+        {
+          "item_id": 5034,
+          "name": "Gemmed Mitre of the Priest Kings",
+          "prefab": "wearable",
+          "creation_date": "2013-06-05T00:00:00.000Z",
+          "image_inventory": "econ/items/chen/head_desert/head_desert",
+          "image_path": "icons/econ/items/chen/head_desert/head_desert.3f24dd8b85d6529a462403ff41b84f693c8f487f.png",
+          "item_description": "#DOTA_Item_Desc_Gemmed_Mitre_of_the_Priest_Kings",
+          "item_name": "#DOTA_Item_Gemmed_Mitre_of_the_Priest_Kings",
+          "item_rarity": "rare",
+          "item_type_name": "#DOTA_WearableType_Mitre",
+          "used_by_heroes": "npc_dota_hero_chen"
+        },
+        {
+          "item_id": 5035,
+          "name": "Gemmed Bracers of the Priest Kings",
+          "prefab": "wearable",
+          "creation_date": "2013-06-05T00:00:00.000Z",
+          "image_inventory": "econ/items/chen/arms_desert/arms_desert",
+          "image_path": "icons/econ/items/chen/arms_desert/arms_desert.e70b32a2c61c5ac7d20c4780bbd3c6d176d6ca24.png",
+          "item_description": "#DOTA_Item_Desc_Gemmed_Bracers_of_the_Priest_Kings",
+          "item_name": "#DOTA_Item_Gemmed_Bracers_of_the_Priest_Kings",
+          "item_rarity": null,
+          "item_type_name": "#DOTA_WearableType_Bracer",
+          "used_by_heroes": "npc_dota_hero_chen"
+        },
+        {
+          "item_id": 5037,
+          "name": "Ruling Staff of the Priest Kings",
+          "prefab": "wearable",
+          "creation_date": "2013-06-05T00:00:00.000Z",
+          "image_inventory": "econ/items/chen/weapon_desert/weapon_desert",
+          "image_path": "icons/econ/items/chen/weapon_desert/weapon_desert.0bad360ee9b1d2240a1f41ac3e6c54cb8f855c09.png",
+          "item_description": "#DOTA_Item_Desc_Ruling_Staff_of_the_Priest_Kings",
+          "item_name": "#DOTA_Item_Ruling_Staff_of_the_Priest_Kings",
+          "item_rarity": "uncommon",
+          "item_type_name": "#DOTA_WearableType_Staff",
+          "used_by_heroes": "npc_dota_hero_chen"
+        },
+        {
+          "item_id": 9158,
+          "name": "Sanurok the Ever Able",
+          "prefab": "wearable",
+          "creation_date": "2017-02-27T00:00:00.000Z",
+          "image_inventory": "econ/items/chen/mount_desert_new/mount_desert_new",
+          "image_path": "icons/econ/items/chen/mount_desert_new/mount_desert_new.f7e6395a3beaafab3751ec34f95c0bf27d194d98.png",
+          "item_description": "#DOTA_Item_Desc_Copy_of_Sanurok_the_Ever_Able",
+          "item_name": "#DOTA_Item_Sanurok_the_Ever_Able",
+          "item_rarity": "mythical",
+          "item_type_name": "#DOTA_WearableType_Riding_Cat",
+          "used_by_heroes": "npc_dota_hero_chen"
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 241,
+          "pct": 0.183206106870229
+        },
+        "xp_per_min": {
+          "raw": 236,
+          "pct": 0.12213740458015267
+        },
+        "kills_per_min": {
+          "raw": 0.10084033613445378,
+          "pct": 0.7099236641221374
+        },
+        "last_hits_per_min": {
+          "raw": 2.8235294117647056,
+          "pct": 0.8015267175572519
+        },
+        "hero_damage_per_min": {
+          "raw": 102.9579831932773,
+          "pct": 0.03816793893129771
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.061068702290076333
+        },
+        "tower_damage": {
+          "raw": 139,
+          "pct": 0.17557251908396945
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 1,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5127,
+        5128,
+        5126
+      ],
+      "ability_uses": {
+        "crystal_maiden_frostbite": 13,
+        "crystal_maiden_crystal_nova": 1
+      },
+      "account_id": 104015277,
+      "actions": {
+        "1": 664,
+        "4": 96,
+        "5": 7,
+        "6": 19,
+        "7": 2,
+        "8": 5,
+        "11": 3,
+        "15": 9,
+        "16": 29,
+        "17": 2,
+        "19": 8
+      },
+      "additional_units": null,
+      "assists": 0,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 2,
+      "connection_log": null,
+      "creeps_stacked": 6,
+      "damage": {
+        "npc_dota_hero_earthshaker": 855,
+        "npc_dota_neutral_fel_beast": 37,
+        "npc_dota_neutral_centaur_khan": 1110,
+        "npc_dota_neutral_centaur_outrunner": 359,
+        "npc_dota_neutral_satyr_trickster": 421,
+        "npc_dota_neutral_satyr_hellcaller": 1157,
+        "npc_dota_neutral_satyr_soulstealer": 600,
+        "npc_dota_neutral_mud_golem": 1646,
+        "npc_dota_neutral_mud_golem_split": 1100,
+        "npc_dota_neutral_prowler_acolyte": 30,
+        "npc_dota_neutral_polar_furbolg_ursa_warrior": 979,
+        "npc_dota_neutral_polar_furbolg_champion": 707
+      },
+      "damage_inflictor": {
+        "null": 408,
+        "crystal_maiden_frostbite": 447
+      },
+      "damage_inflictor_received": {
+        "null": 634,
+        "earthshaker_fissure": 166,
+        "sniper_shrapnel": 77
+      },
+      "damage_taken": {
+        "npc_dota_hero_earthshaker": 719,
+        "npc_dota_hero_sniper": 158,
+        "npc_dota_creep_badguys_melee": 13,
+        "npc_dota_neutral_fel_beast": 9,
+        "npc_dota_neutral_ghost": 22,
+        "npc_dota_neutral_satyr_trickster": 23,
+        "npc_dota_neutral_mud_golem": 39,
+        "npc_dota_neutral_mud_golem_split": 99,
+        "npc_dota_neutral_polar_furbolg_ursa_warrior": 43,
+        "npc_dota_neutral_polar_furbolg_champion": 36
+      },
+      "damage_targets": null,
+      "deaths": 1,
+      "denies": 0,
+      "dn_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "firstblood_claimed": 0,
+      "gold": 180,
+      "gold_per_min": 177,
+      "gold_reasons": {
+        "0": 866,
+        "1": -62,
+        "11": 240,
+        "13": 374
+      },
+      "gold_spent": 2560,
+      "gold_t": [
+        0,
+        90,
+        181,
+        326,
+        417,
+        704,
+        834,
+        1108,
+        1399,
+        1564,
+        1757,
+        1757,
+        1757
+      ],
+      "hero_damage": 855,
+      "hero_healing": 0,
+      "hero_hits": {
+        "null": 12,
+        "crystal_maiden_frostbite": 12
+      },
+      "hero_id": 5,
+      "item_0": 44,
+      "item_1": 0,
+      "item_2": 36,
+      "item_3": 46,
+      "item_4": 29,
+      "item_5": 0,
+      "item_neutral": 0,
+      "item_uses": {
+        "ward_observer": 5,
+        "clarity": 2,
+        "tango": 3,
+        "enchanted_mango": 1,
+        "tpscroll": 2,
+        "magic_wand": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_neutral_centaur_khan": 1,
+        "npc_dota_neutral_centaur_outrunner": 1,
+        "npc_dota_neutral_satyr_hellcaller": 1,
+        "npc_dota_neutral_satyr_soulstealer": 1,
+        "npc_dota_neutral_satyr_trickster": 1,
+        "npc_dota_neutral_mud_golem": 2,
+        "npc_dota_neutral_mud_golem_split": 4,
+        "npc_dota_neutral_polar_furbolg_ursa_warrior": 1,
+        "npc_dota_neutral_polar_furbolg_champion": 1
+      },
+      "killed_by": {
+        "npc_dota_hero_earthshaker": 1
+      },
+      "kills": 0,
+      "kills_log": [],
+      "lane_pos": {
+        "74": {
+          "74": 11,
+          "76": 8
+        },
+        "76": {
+          "76": 2,
+          "78": 2
+        },
+        "78": {
+          "78": 2,
+          "102": 2,
+          "104": 1
+        },
+        "80": {
+          "78": 2,
+          "98": 1,
+          "100": 2,
+          "102": 1
+        },
+        "82": {
+          "78": 2,
+          "94": 1,
+          "96": 1,
+          "98": 1
+        },
+        "84": {
+          "78": 2,
+          "84": 1,
+          "86": 1,
+          "88": 1,
+          "90": 1,
+          "92": 1,
+          "98": 1
+        },
+        "86": {
+          "78": 2,
+          "82": 1,
+          "98": 1
+        },
+        "88": {
+          "78": 3,
+          "80": 1,
+          "98": 1
+        },
+        "90": {
+          "78": 3,
+          "98": 1
+        },
+        "92": {
+          "78": 2
+        },
+        "94": {
+          "78": 3,
+          "98": 1
+        },
+        "96": {
+          "78": 3,
+          "98": 1
+        },
+        "98": {
+          "78": 2,
+          "98": 1
+        },
+        "100": {
+          "78": 1,
+          "96": 1
+        },
+        "102": {
+          "78": 1,
+          "96": 1
+        },
+        "104": {
+          "78": 1,
+          "96": 1
+        },
+        "106": {
+          "78": 1,
+          "96": 1
+        },
+        "108": {
+          "78": 1,
+          "96": 1
+        },
+        "110": {
+          "78": 1,
+          "98": 1
+        },
+        "112": {
+          "78": 1,
+          "98": 1
+        },
+        "114": {
+          "78": 1,
+          "98": 1,
+          "100": 12
+        },
+        "116": {
+          "78": 1,
+          "98": 1,
+          "100": 14,
+          "106": 1
+        },
+        "118": {
+          "78": 1,
+          "96": 1,
+          "98": 1,
+          "100": 3,
+          "104": 13,
+          "106": 3
+        },
+        "120": {
+          "78": 1,
+          "96": 3,
+          "98": 1,
+          "104": 4,
+          "106": 6
+        },
+        "122": {
+          "80": 1,
+          "94": 1,
+          "96": 3,
+          "106": 3
+        },
+        "124": {
+          "80": 1,
+          "94": 4,
+          "96": 1,
+          "106": 2
+        },
+        "126": {
+          "80": 1,
+          "94": 5,
+          "106": 1
+        },
+        "128": {
+          "80": 1,
+          "94": 3,
+          "96": 1,
+          "106": 2
+        },
+        "130": {
+          "82": 1,
+          "94": 6,
+          "96": 2,
+          "100": 1,
+          "102": 1,
+          "104": 10,
+          "106": 3,
+          "108": 26
+        },
+        "132": {
+          "82": 1,
+          "92": 3,
+          "94": 9,
+          "96": 6,
+          "98": 3,
+          "100": 12,
+          "102": 1,
+          "104": 2,
+          "106": 2
+        },
+        "134": {
+          "84": 1,
+          "92": 3,
+          "94": 12,
+          "96": 17,
+          "98": 39,
+          "100": 14,
+          "102": 2,
+          "104": 1,
+          "106": 6
+        },
+        "136": {
+          "84": 1,
+          "92": 5,
+          "94": 8,
+          "96": 3,
+          "98": 1,
+          "102": 1,
+          "108": 1
+        },
+        "138": {
+          "84": 1,
+          "92": 4,
+          "94": 7,
+          "96": 3,
+          "98": 1,
+          "102": 1,
+          "108": 1
+        },
+        "140": {
+          "86": 1,
+          "88": 1,
+          "90": 1,
+          "92": 1,
+          "94": 1,
+          "96": 2,
+          "98": 3,
+          "100": 1,
+          "102": 1,
+          "108": 1
+        },
+        "142": {
+          "88": 1,
+          "90": 1,
+          "92": 5,
+          "94": 2,
+          "96": 2,
+          "98": 1,
+          "100": 1,
+          "102": 1,
+          "104": 1
+        },
+        "144": {
+          "88": 1,
+          "90": 2,
+          "92": 1,
+          "96": 2,
+          "98": 1,
+          "100": 1,
+          "102": 1,
+          "104": 1,
+          "110": 1
+        },
+        "146": {
+          "88": 2,
+          "90": 2,
+          "98": 1,
+          "100": 2,
+          "110": 1
+        },
+        "148": {
+          "88": 5,
+          "96": 1,
+          "98": 1,
+          "100": 2,
+          "112": 1
+        },
+        "150": {
+          "78": 1,
+          "86": 5,
+          "98": 2,
+          "100": 2,
+          "112": 1
+        },
+        "152": {
+          "80": 2,
+          "82": 2,
+          "84": 2,
+          "86": 5,
+          "98": 3,
+          "100": 2,
+          "112": 1
+        },
+        "154": {
+          "86": 7,
+          "88": 5,
+          "90": 2,
+          "98": 2,
+          "100": 2
+        },
+        "156": {
+          "82": 2,
+          "84": 2,
+          "86": 15,
+          "88": 2,
+          "98": 2,
+          "100": 3,
+          "104": 1,
+          "112": 2
+        },
+        "158": {
+          "80": 2,
+          "82": 2,
+          "86": 7,
+          "88": 2,
+          "92": 1,
+          "94": 1,
+          "96": 1,
+          "98": 2,
+          "100": 1,
+          "102": 2,
+          "106": 1,
+          "108": 1,
+          "112": 2
+        },
+        "160": {
+          "80": 7,
+          "82": 3,
+          "84": 1,
+          "86": 3,
+          "88": 3,
+          "90": 1,
+          "98": 2,
+          "100": 1
+        },
+        "162": {
+          "78": 2,
+          "80": 4,
+          "86": 3,
+          "88": 2,
+          "98": 2,
+          "100": 2
+        },
+        "164": {
+          "78": 2,
+          "80": 1,
+          "86": 1,
+          "88": 3,
+          "98": 2,
+          "100": 2
+        },
+        "166": {
+          "82": 1,
+          "86": 1,
+          "88": 3,
+          "98": 1,
+          "100": 3
+        },
+        "168": {
+          "82": 1,
+          "84": 1,
+          "86": 1,
+          "88": 2,
+          "90": 3,
+          "94": 2,
+          "96": 4,
+          "98": 2,
+          "100": 3
+        },
+        "170": {
+          "80": 4,
+          "82": 1,
+          "84": 1,
+          "90": 3,
+          "92": 1,
+          "94": 7,
+          "96": 6,
+          "98": 6,
+          "100": 1,
+          "102": 1
+        },
+        "172": {
+          "86": 2,
+          "88": 1,
+          "90": 1,
+          "92": 2,
+          "94": 4,
+          "98": 9,
+          "100": 1
+        }
+      },
+      "last_hits": 13,
+      "leaver_status": 0,
+      "level": 3,
+      "lh_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        5,
+        5,
+        10,
+        11,
+        13,
+        13,
+        13
+      ],
+      "life_state": {
+        "0": 734,
+        "1": 2,
+        "2": 5
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 355,
+        "max": true,
+        "inflictor": null,
+        "unit": "npc_dota_hero_crystal_maiden",
+        "key": "npc_dota_hero_earthshaker",
+        "value": 39,
+        "slot": 1,
+        "player_slot": 1
+      },
+      "multi_kills": {},
+      "net_worth": 1470,
+      "obs": {
+        "142": {
+          "104": 1
+        },
+        "158": {
+          "116": 1
+        },
+        "172": {
+          "102": 2
+        }
+      },
+      "obs_left_log": [
+        {
+          "time": 368,
+          "type": "obs_left_log",
+          "key": "[172, 102]",
+          "slot": 1,
+          "x": 172,
+          "y": 102,
+          "z": 130,
+          "entityleft": true,
+          "ehandle": 3719608,
+          "player_slot": 1
+        },
+        {
+          "time": 562,
+          "type": "obs_left_log",
+          "key": "[142, 104]",
+          "slot": 1,
+          "x": 142,
+          "y": 104,
+          "z": 132,
+          "entityleft": true,
+          "ehandle": 5768458,
+          "player_slot": 1
+        }
+      ],
+      "obs_log": [
+        {
+          "time": -6,
+          "type": "obs_log",
+          "key": "[172, 102]",
+          "slot": 1,
+          "x": 172,
+          "y": 102,
+          "z": 130,
+          "entityleft": false,
+          "ehandle": 3719608,
+          "player_slot": 1
+        },
+        {
+          "time": 189,
+          "type": "obs_log",
+          "key": "[142, 104]",
+          "slot": 1,
+          "x": 142,
+          "y": 104,
+          "z": 132,
+          "entityleft": false,
+          "ehandle": 5768458,
+          "player_slot": 1
+        },
+        {
+          "time": 501,
+          "type": "obs_log",
+          "key": "[172, 102]",
+          "slot": 1,
+          "x": 172,
+          "y": 102,
+          "z": 130,
+          "entityleft": false,
+          "ehandle": 10813546,
+          "player_slot": 1
+        },
+        {
+          "time": 512,
+          "type": "obs_log",
+          "key": "[158, 116]",
+          "slot": 1,
+          "x": 158,
+          "y": 116,
+          "z": 130,
+          "entityleft": false,
+          "ehandle": 13550635,
+          "player_slot": 1
+        }
+      ],
+      "obs_placed": 4,
+      "party_id": 0,
+      "party_size": 5,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pings": 21,
+      "pred_vict": false,
+      "purchase": {
+        "tango": 1,
+        "ward_observer": 4,
+        "clarity": 1,
+        "tpscroll": 6,
+        "enchanted_mango": 1,
+        "circlet": 1,
+        "branches": 2,
+        "magic_stick": 1,
+        "magic_wand": 1,
+        "boots": 1,
+        "wind_lace": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "ward_observer"
+        },
+        {
+          "time": -89,
+          "key": "clarity"
+        },
+        {
+          "time": -89,
+          "key": "tpscroll"
+        },
+        {
+          "time": -89,
+          "key": "enchanted_mango"
+        },
+        {
+          "time": 141,
+          "key": "ward_observer"
+        },
+        {
+          "time": 146,
+          "key": "circlet"
+        },
+        {
+          "time": 169,
+          "key": "branches"
+        },
+        {
+          "time": 278,
+          "key": "magic_stick"
+        },
+        {
+          "time": 278,
+          "key": "branches"
+        },
+        {
+          "time": 296,
+          "key": "tpscroll"
+        },
+        {
+          "time": 326,
+          "key": "magic_wand"
+        },
+        {
+          "time": 416,
+          "key": "ward_observer"
+        },
+        {
+          "time": 417,
+          "key": "boots"
+        },
+        {
+          "time": 446,
+          "key": "tpscroll"
+        },
+        {
+          "time": 446,
+          "key": "tpscroll"
+        },
+        {
+          "time": 459,
+          "key": "ward_observer"
+        },
+        {
+          "time": 461,
+          "key": "tpscroll"
+        },
+        {
+          "time": 461,
+          "key": "tpscroll"
+        },
+        {
+          "time": 576,
+          "key": "wind_lace"
+        }
+      ],
+      "randomed": false,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 4,
+      "runes": {
+        "5": 4
+      },
+      "runes_log": [
+        {
+          "time": 120,
+          "key": 5
+        },
+        {
+          "time": 251,
+          "key": 5
+        },
+        {
+          "time": 406,
+          "key": 5
+        },
+        {
+          "time": 483,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 6.6317196,
+      "teamfight_participation": 0,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 0,
+      "towers_killed": 0,
+      "xp_per_min": 106,
+      "xp_reasons": {
+        "0": 303,
+        "2": 757
+      },
+      "xp_t": [
+        0,
+        58,
+        124,
+        184,
+        184,
+        477,
+        560,
+        663,
+        785,
+        893,
+        1060,
+        1060,
+        1060
+      ],
+      "team_number": 0,
+      "team_slot": 1,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "personaname": "Potato Bagel",
+      "name": null,
+      "last_login": null,
+      "rank_tier": 43,
+      "computed_mmr": null,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": true,
+      "win": 1,
+      "lose": 0,
+      "total_gold": 1755,
+      "total_xp": 1051,
+      "kda": 0,
+      "abandons": 0,
+      "neutral_kills": 13,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 0,
+      "hero_kills": 0,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 5,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.35509296685529507,
+      "lane_efficiency_pct": 35,
+      "lane": 4,
+      "lane_role": 4,
+      "is_roaming": false,
+      "purchase_time": {
+        "tango": -89,
+        "ward_observer": 927,
+        "clarity": -89,
+        "tpscroll": 2021,
+        "enchanted_mango": -89,
+        "circlet": 146,
+        "branches": 447,
+        "magic_stick": 278,
+        "magic_wand": 326,
+        "boots": 417,
+        "wind_lace": 576
+      },
+      "first_purchase_time": {
+        "tango": -89,
+        "ward_observer": -89,
+        "clarity": -89,
+        "tpscroll": -89,
+        "enchanted_mango": -89,
+        "circlet": 146,
+        "branches": 169,
+        "magic_stick": 278,
+        "magic_wand": 326,
+        "boots": 417,
+        "wind_lace": 576
+      },
+      "item_win": {
+        "tango": 1,
+        "ward_observer": 1,
+        "clarity": 1,
+        "tpscroll": 1,
+        "enchanted_mango": 1,
+        "circlet": 1,
+        "branches": 1,
+        "magic_stick": 1,
+        "magic_wand": 1,
+        "boots": 1,
+        "wind_lace": 1
+      },
+      "item_usage": {
+        "tango": 1,
+        "ward_observer": 1,
+        "clarity": 1,
+        "tpscroll": 1,
+        "enchanted_mango": 1,
+        "circlet": 1,
+        "branches": 1,
+        "magic_stick": 1,
+        "magic_wand": 1,
+        "boots": 1,
+        "wind_lace": 1
+      },
+      "purchase_ward_observer": 4,
+      "purchase_tpscroll": 6,
+      "actions_per_min": 85,
+      "life_state_dead": 7,
+      "cosmetics": [
+        {
+          "item_id": 4440,
+          "name": "Snowdrop Mittens",
+          "prefab": "wearable",
+          "creation_date": null,
+          "image_inventory": "econ/items/crystal_maiden/anuxi_snowdrop_glove/anuxi_snowdrop_glove",
+          "image_path": "icons/econ/items/crystal_maiden/anuxi_snowdrop_glove/anuxi_snowdrop_glove.da39a3ee5e6b4b0d3255bfef95601890afd80709.png",
+          "item_description": "#DOTA_Item_Desc_Snowdrop_Mittens",
+          "item_name": "#DOTA_Item_Snowdrop_Mittens",
+          "item_rarity": "uncommon",
+          "item_type_name": "#DOTA_WearableType_Gloves",
+          "used_by_heroes": "npc_dota_hero_crystal_maiden"
+        },
+        {
+          "item_id": 6686,
+          "name": "Yulsaria's Glacier",
+          "prefab": "wearable",
+          "creation_date": "2014-05-22T00:00:00.000Z",
+          "image_inventory": "econ/items/crystal_maiden/cowl_of_ice/cowl_of_ice",
+          "image_path": "icons/econ/items/crystal_maiden/cowl_of_ice/cowl_of_ice.2076f424d1ed423c2ba93ef3702574a7e76fb67c.png",
+          "item_description": "#DOTA_Item_Desc_Cowl_of_Ice",
+          "item_name": "#DOTA_Item_Yulsarias_Glacier",
+          "item_rarity": "immortal",
+          "item_type_name": "#DOTA_WearableType_Crown",
+          "used_by_heroes": "npc_dota_hero_crystal_maiden"
+        },
+        {
+          "item_id": 6784,
+          "name": "White Sentry",
+          "prefab": "wearable",
+          "creation_date": "2014-06-13T00:00:00.000Z",
+          "image_inventory": "econ/items/crystal_maiden/ward_staff/ward_staff",
+          "image_path": "icons/econ/items/crystal_maiden/ward_staff/ward_staff.a3e6778a0cae00f3ae803467f283e8b8086ca142.png",
+          "item_description": "#DOTA_Item_Desc_White_Sentry",
+          "item_name": "#DOTA_Item_White_Sentry",
+          "item_rarity": "immortal",
+          "item_type_name": "#DOTA_WearableType_Weapon",
+          "used_by_heroes": "npc_dota_hero_crystal_maiden"
+        },
+        {
+          "item_id": 7385,
+          "name": "Frost Avalanche",
+          "prefab": "wearable",
+          "creation_date": "2015-02-12T00:00:00.000Z",
+          "image_inventory": "econ/heroes/crystal_maiden/crystal_maiden_arcana_back2",
+          "image_path": "icons/econ/heroes/crystal_maiden/crystal_maiden_arcana_back2.da39a3ee5e6b4b0d3255bfef95601890afd80709.png",
+          "item_description": "#DOTA_Item_Desc_Frost_Avalanche",
+          "item_name": "#DOTA_Item_Frost_Avalanche",
+          "item_rarity": "arcana",
+          "item_type_name": "#DOTA_WearableType_Icy_Shawl_and_Wolf_Pup",
+          "used_by_heroes": "npc_dota_hero_crystal_maiden"
+        },
+        {
+          "item_id": 9205,
+          "name": "Yulsaria's Mantle",
+          "prefab": "wearable",
+          "creation_date": "2017-05-04T00:00:00.000Z",
+          "image_inventory": "econ/items/crystal_maiden/immortal_shoulders/cm_immortal_shoulders",
+          "image_path": "icons/econ/items/crystal_maiden/immortal_shoulders/cm_immortal_shoulders.8461252b27aab895627bfa3e4819e7a527a44fee.png",
+          "item_description": "#DOTA_Item_Desc_Yulsarias_Mantle",
+          "item_name": "#DOTA_Item_Yulsarias_Mantle",
+          "item_rarity": "immortal",
+          "item_type_name": "#DOTA_WearableType_shawl",
+          "used_by_heroes": "npc_dota_hero_crystal_maiden"
+        },
+        {
+          "item_id": 11998,
+          "name": "Shifty Minnow",
+          "prefab": "ward",
+          "creation_date": "2017-05-04T00:00:00.000Z",
+          "image_inventory": "econ/items/wards/ti7_lure_ward/ti7_lure_ward_npc_dota_observer_wards",
+          "image_path": "icons/econ/items/wards/ti7_lure_ward/ti7_lure_ward_npc_dota_observer_wards.8268c1d7c46b3e36b1d5cfdb20a7f61b46c913d7.png",
+          "item_description": "#DOTA_Item_Desc_Shifty_Minnow",
+          "item_name": "#DOTA_Item_Shifty_Minnow",
+          "item_rarity": "mythical",
+          "item_type_name": null,
+          "used_by_heroes": null
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 177,
+          "pct": 0.011708744968898645
+        },
+        "xp_per_min": {
+          "raw": 106,
+          "pct": 0.003658982802780827
+        },
+        "kills_per_min": {
+          "raw": 0,
+          "pct": 0.038419319429198684
+        },
+        "last_hits_per_min": {
+          "raw": 1.3109243697478992,
+          "pct": 0.3333333333333333
+        },
+        "hero_damage_per_min": {
+          "raw": 86.21848739495799,
+          "pct": 0.005488474204171241
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.7241126966703256
+        },
+        "tower_damage": {
+          "raw": 0,
+          "pct": 0.20014635931211122
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 2,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5241,
+        5242,
+        5242,
+        5241,
+        5242
+      ],
+      "ability_uses": {
+        "leshrac_split_earth": 6,
+        "leshrac_diabolic_edict": 6
+      },
+      "account_id": null,
+      "actions": {
+        "1": 1079,
+        "2": 79,
+        "4": 274,
+        "5": 8,
+        "7": 4,
+        "8": 6,
+        "11": 5,
+        "16": 7
+      },
+      "additional_units": null,
+      "assists": 1,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_creep_badguys_melee": 3707,
+        "npc_dota_hero_lion": 130,
+        "npc_dota_hero_meepo": 1447,
+        "npc_dota_creep_badguys_ranged": 686,
+        "npc_dota_badguys_tower1_top": 770,
+        "npc_dota_creep_goodguys_melee": 107
+      },
+      "damage_inflictor": {
+        "null": 505,
+        "leshrac_diabolic_edict": 592,
+        "leshrac_split_earth": 480
+      },
+      "damage_inflictor_received": {
+        "null": 1137,
+        "meepo_poof": 396,
+        "lion_impale": 213
+      },
+      "damage_taken": {
+        "npc_dota_hero_lion": 747,
+        "npc_dota_creep_badguys_melee": 320,
+        "npc_dota_badguys_tower1_top": 226,
+        "npc_dota_creep_badguys_ranged": 111,
+        "npc_dota_hero_meepo": 999,
+        "npc_dota_badguys_siege": 30
+      },
+      "damage_targets": null,
+      "deaths": 2,
+      "denies": 1,
+      "dn_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "firstblood_claimed": 0,
+      "gold": 93,
+      "gold_per_min": 161,
+      "gold_reasons": {
+        "0": 625,
+        "1": -170,
+        "11": 240,
+        "13": 457
+      },
+      "gold_spent": 1945,
+      "gold_t": [
+        0,
+        90,
+        267,
+        392,
+        483,
+        649,
+        774,
+        1030,
+        1314,
+        1479,
+        1599,
+        1599,
+        1599
+      ],
+      "hero_damage": 1577,
+      "hero_healing": 0,
+      "hero_hits": {
+        "null": 15,
+        "leshrac_diabolic_edict": 50,
+        "leshrac_split_earth": 4
+      },
+      "hero_id": 52,
+      "item_0": 180,
+      "item_1": 77,
+      "item_2": 46,
+      "item_3": 0,
+      "item_4": 0,
+      "item_5": 0,
+      "item_neutral": 0,
+      "item_uses": {
+        "tango": 4,
+        "ward_observer": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_creep_badguys_ranged": 2,
+        "npc_dota_creep_badguys_melee": 10,
+        "npc_dota_creep_goodguys_melee": 1
+      },
+      "killed_by": {
+        "npc_dota_hero_meepo": 1,
+        "npc_dota_creep_badguys_ranged": 1
+      },
+      "kills": 0,
+      "kills_log": [],
+      "lane_pos": {
+        "72": {
+          "76": 4,
+          "78": 1,
+          "160": 4,
+          "162": 4,
+          "164": 3,
+          "166": 1
+        },
+        "74": {
+          "76": 8,
+          "78": 4,
+          "88": 1,
+          "90": 1,
+          "94": 1,
+          "96": 1,
+          "142": 2,
+          "144": 1,
+          "158": 12,
+          "160": 4,
+          "164": 13,
+          "168": 1
+        },
+        "76": {
+          "78": 2,
+          "80": 2,
+          "82": 1,
+          "84": 2,
+          "86": 1,
+          "88": 1,
+          "90": 1,
+          "92": 1,
+          "98": 1,
+          "100": 1,
+          "102": 1,
+          "106": 1,
+          "112": 1,
+          "122": 1,
+          "124": 1,
+          "126": 1,
+          "128": 1,
+          "130": 1,
+          "132": 1,
+          "134": 1,
+          "136": 2,
+          "138": 4,
+          "140": 10,
+          "142": 5,
+          "144": 8,
+          "146": 16,
+          "148": 10,
+          "150": 6,
+          "152": 13,
+          "154": 6,
+          "156": 10,
+          "158": 8,
+          "160": 4,
+          "162": 6,
+          "164": 14,
+          "166": 5
+        },
+        "78": {
+          "80": 1,
+          "94": 1,
+          "98": 1,
+          "100": 1,
+          "102": 1,
+          "106": 1,
+          "108": 1,
+          "110": 1,
+          "112": 2,
+          "114": 2,
+          "116": 2,
+          "118": 2,
+          "120": 3,
+          "122": 4,
+          "124": 2,
+          "126": 2,
+          "128": 5,
+          "130": 4,
+          "132": 6,
+          "134": 1,
+          "136": 7,
+          "138": 3,
+          "140": 1,
+          "142": 3,
+          "144": 13,
+          "146": 13,
+          "148": 11,
+          "150": 28,
+          "152": 18,
+          "154": 35,
+          "156": 25,
+          "158": 8,
+          "160": 15,
+          "162": 12,
+          "164": 16,
+          "166": 29
+        },
+        "80": {
+          "82": 1,
+          "106": 1,
+          "110": 2,
+          "126": 1,
+          "142": 6,
+          "146": 1,
+          "150": 1,
+          "156": 2,
+          "158": 2,
+          "162": 4,
+          "164": 1,
+          "166": 4,
+          "168": 4
+        },
+        "82": {
+          "82": 1,
+          "108": 2,
+          "128": 1,
+          "158": 6,
+          "160": 2,
+          "162": 1,
+          "170": 12,
+          "172": 5
+        },
+        "84": {
+          "84": 3,
+          "86": 1,
+          "106": 2,
+          "108": 1,
+          "130": 1,
+          "132": 1,
+          "170": 1,
+          "172": 10,
+          "174": 2
+        },
+        "86": {
+          "86": 1,
+          "88": 2,
+          "106": 2,
+          "134": 1,
+          "172": 1,
+          "174": 14
+        },
+        "88": {
+          "86": 1,
+          "88": 2,
+          "90": 2,
+          "92": 2,
+          "104": 2
+        },
+        "90": {
+          "90": 3,
+          "94": 2,
+          "96": 2,
+          "104": 2,
+          "106": 1,
+          "136": 1
+        },
+        "92": {
+          "88": 1,
+          "102": 2,
+          "104": 1,
+          "138": 2
+        },
+        "94": {
+          "88": 1,
+          "100": 1,
+          "102": 2,
+          "138": 1,
+          "140": 1
+        },
+        "96": {
+          "84": 1,
+          "86": 1,
+          "98": 1,
+          "144": 1
+        },
+        "98": {
+          "82": 1,
+          "98": 1,
+          "146": 1
+        },
+        "100": {
+          "82": 1,
+          "96": 1,
+          "148": 1
+        },
+        "102": {
+          "94": 1,
+          "150": 1
+        },
+        "104": {
+          "82": 1,
+          "90": 1,
+          "92": 1,
+          "152": 1
+        },
+        "106": {
+          "82": 1,
+          "88": 1,
+          "154": 1,
+          "158": 1
+        },
+        "108": {
+          "82": 1,
+          "86": 1,
+          "160": 1,
+          "162": 1
+        },
+        "110": {
+          "82": 1,
+          "84": 1,
+          "164": 1,
+          "168": 1,
+          "170": 1,
+          "174": 1
+        },
+        "112": {
+          "80": 1,
+          "82": 1,
+          "174": 1
+        },
+        "114": {
+          "80": 1,
+          "174": 5,
+          "176": 4
+        },
+        "116": {
+          "80": 2,
+          "174": 8
+        },
+        "118": {
+          "80": 2,
+          "84": 1
+        },
+        "120": {
+          "84": 1,
+          "86": 2
+        }
+      },
+      "last_hits": 12,
+      "leaver_status": 0,
+      "level": 5,
+      "lh_t": [
+        0,
+        0,
+        2,
+        3,
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        12,
+        12
+      ],
+      "life_state": {
+        "0": 717,
+        "1": 3,
+        "2": 21
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 311,
+        "max": true,
+        "inflictor": "leshrac_split_earth",
+        "unit": "npc_dota_hero_leshrac",
+        "key": "npc_dota_hero_meepo",
+        "value": 120,
+        "slot": 2,
+        "player_slot": 2
+      },
+      "multi_kills": {},
+      "net_worth": 1913,
+      "obs": {
+        "86": {
+          "160": 1
+        }
+      },
+      "obs_left_log": [
+        {
+          "time": 536,
+          "type": "obs_left_log",
+          "key": "[86, 160]",
+          "slot": 2,
+          "x": 86,
+          "y": 160,
+          "z": 130,
+          "entityleft": true,
+          "ehandle": 4474093,
+          "player_slot": 2
+        }
+      ],
+      "obs_log": [
+        {
+          "time": 168,
+          "type": "obs_log",
+          "key": "[86, 160]",
+          "slot": 2,
+          "x": 86,
+          "y": 160,
+          "z": 130,
+          "entityleft": false,
+          "ehandle": 4474093,
+          "player_slot": 2
+        }
+      ],
+      "obs_placed": 1,
+      "party_id": 0,
+      "party_size": 5,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pred_vict": false,
+      "purchase": {
+        "tango": 1,
+        "null_talisman": 1,
+        "tpscroll": 1,
+        "boots": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "null_talisman"
+        },
+        {
+          "time": 211,
+          "key": "tpscroll"
+        },
+        {
+          "time": 387,
+          "key": "boots"
+        },
+        {
+          "time": 564,
+          "key": "arcane_boots"
+        },
+        {
+          "time": 564,
+          "key": "energy_booster"
+        }
+      ],
+      "randomed": false,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 0,
+      "runes": {},
+      "runes_log": [],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 8.131348,
+      "teamfight_participation": 0.2,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 770,
+      "towers_killed": 0,
+      "xp_per_min": 206,
+      "xp_reasons": {
+        "0": 1,
+        "2": 2044
+      },
+      "xp_t": [
+        0,
+        56,
+        355,
+        534,
+        614,
+        1124,
+        1544,
+        1819,
+        1879,
+        2004,
+        2044,
+        2044,
+        2044
+      ],
+      "team_number": 0,
+      "team_slot": 2,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": true,
+      "win": 1,
+      "lose": 0,
+      "total_gold": 1596,
+      "total_xp": 2042,
+      "kda": 0.33,
+      "abandons": 0,
+      "neutral_kills": 0,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 13,
+      "hero_kills": 0,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 1,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.32316087308003233,
+      "lane_efficiency_pct": 32,
+      "lane": 3,
+      "lane_role": 3,
+      "is_roaming": false,
+      "purchase_time": {
+        "tango": -89,
+        "null_talisman": -89,
+        "tpscroll": 211,
+        "boots": 387,
+        "arcane_boots": 564,
+        "energy_booster": 564
+      },
+      "first_purchase_time": {
+        "tango": -89,
+        "null_talisman": -89,
+        "tpscroll": 211,
+        "boots": 387,
+        "arcane_boots": 564,
+        "energy_booster": 564
+      },
+      "item_win": {
+        "tango": 1,
+        "null_talisman": 1,
+        "tpscroll": 1,
+        "boots": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1
+      },
+      "item_usage": {
+        "tango": 1,
+        "null_talisman": 1,
+        "tpscroll": 1,
+        "boots": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1
+      },
+      "purchase_tpscroll": 1,
+      "actions_per_min": 147,
+      "life_state_dead": 24,
+      "cosmetics": [
+        {
+          "item_id": 10935,
+          "name": "Featherhutch",
+          "prefab": "ward",
+          "creation_date": "2014-10-24T00:00:00.000Z",
+          "image_inventory": "econ/items/wards/chicken_hut_ward/chicken_hut_ward_npc_dota_observer_wards",
+          "image_path": "icons/econ/items/wards/chicken_hut_ward/chicken_hut_ward_npc_dota_observer_wards.31b0733766a03a4faa8f8c650e8aa5d31fcb79b3.png",
+          "item_description": "#DOTA_Item_Desc_Featherhutch",
+          "item_name": "#DOTA_Item_Featherhutch",
+          "item_rarity": "mythical",
+          "item_type_name": null,
+          "used_by_heroes": null
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 161,
+          "pct": 0.0066518847006651885
+        },
+        "xp_per_min": {
+          "raw": 206,
+          "pct": 0.031042128603104215
+        },
+        "kills_per_min": {
+          "raw": 0,
+          "pct": 0.028824833702882482
+        },
+        "last_hits_per_min": {
+          "raw": 1.2100840336134455,
+          "pct": 0.06651884700665188
+        },
+        "hero_damage_per_min": {
+          "raw": 159.0252100840336,
+          "pct": 0.04212860310421286
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.811529933481153
+        },
+        "tower_damage": {
+          "raw": 770,
+          "pct": 0.21729490022172948
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 3,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5078,
+        5080,
+        5078,
+        5079,
+        5078,
+        5081,
+        5078,
+        5079,
+        5079,
+        5079
+      ],
+      "ability_uses": {
+        "shadow_shaman_ether_shock": 12,
+        "shadow_shaman_mass_serpent_ward": 2,
+        "shadow_shaman_voodoo": 1
+      },
+      "account_id": 177187550,
+      "actions": {
+        "1": 1232,
+        "2": 26,
+        "3": 2,
+        "4": 231,
+        "5": 4,
+        "6": 17,
+        "7": 2,
+        "8": 5,
+        "10": 191,
+        "11": 10,
+        "15": 11,
+        "16": 17,
+        "17": 3,
+        "19": 6,
+        "27": 2,
+        "33": 191
+      },
+      "additional_units": null,
+      "assists": 1,
+      "backpack_0": 16,
+      "backpack_1": 16,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_creep_goodguys_melee": 1264,
+        "npc_dota_creep_badguys_melee": 12566,
+        "npc_dota_creep_goodguys_ranged": 245,
+        "npc_dota_creep_badguys_ranged": 4568,
+        "npc_dota_hero_silencer": 930,
+        "npc_dota_badguys_tower1_mid": 795,
+        "npc_dota_hero_lion": 1750,
+        "npc_dota_badguys_siege": 312,
+        "npc_dota_hero_meepo": 1089
+      },
+      "damage_inflictor": {
+        "shadow_shaman_ether_shock": 2021,
+        "null": 1748
+      },
+      "damage_inflictor_received": {
+        "silencer_curse_of_the_silent": 652,
+        "silencer_glaives_of_wisdom": 106,
+        "null": 616,
+        "lion_impale": 168,
+        "meepo_geostrike": 14
+      },
+      "damage_taken": {
+        "npc_dota_creep_badguys_melee": 194,
+        "npc_dota_creep_badguys_ranged": 153,
+        "npc_dota_hero_silencer": 1216,
+        "npc_dota_hero_lion": 268,
+        "npc_dota_badguys_siege": 55,
+        "npc_dota_badguys_tower1_mid": 376,
+        "npc_dota_hero_meepo": 72
+      },
+      "damage_targets": null,
+      "deaths": 0,
+      "denies": 8,
+      "dn_t": [
+        0,
+        3,
+        5,
+        6,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "firstblood_claimed": 0,
+      "gold": 933,
+      "gold_per_min": 479,
+      "gold_reasons": {
+        "0": 857,
+        "11": 431,
+        "12": 822,
+        "13": 2366
+      },
+      "gold_spent": 4720,
+      "gold_t": [
+        0,
+        309,
+        739,
+        1018,
+        1308,
+        1631,
+        2274,
+        3357,
+        3906,
+        4428,
+        4753,
+        4753,
+        4753
+      ],
+      "hero_damage": 3769,
+      "hero_healing": 0,
+      "hero_hits": {
+        "shadow_shaman_ether_shock": 11,
+        "null": 28
+      },
+      "hero_id": 27,
+      "item_0": 152,
+      "item_1": 265,
+      "item_2": 244,
+      "item_3": 29,
+      "item_4": 240,
+      "item_5": 46,
+      "item_neutral": 0,
+      "item_uses": {
+        "tango_single": 2,
+        "branches": 1,
+        "flask": 2,
+        "enchanted_mango": 1,
+        "invis_sword": 1
+      },
+      "kill_streaks": {
+        "3": 1
+      },
+      "killed": {
+        "npc_dota_creep_badguys_melee": 44,
+        "npc_dota_creep_goodguys_melee": 6,
+        "npc_dota_creep_goodguys_ranged": 2,
+        "npc_dota_creep_badguys_ranged": 17,
+        "npc_dota_hero_lion": 2,
+        "npc_dota_badguys_tower1_mid": 1,
+        "npc_dota_hero_meepo": 1
+      },
+      "killed_by": {},
+      "kills": 3,
+      "kills_log": [
+        {
+          "time": 322,
+          "key": "npc_dota_hero_lion"
+        },
+        {
+          "time": 402,
+          "key": "npc_dota_hero_lion"
+        },
+        {
+          "time": 524,
+          "key": "npc_dota_hero_meepo"
+        }
+      ],
+      "lane_pos": {
+        "72": {
+          "78": 3
+        },
+        "74": {
+          "78": 14,
+          "80": 6
+        },
+        "76": {
+          "82": 1
+        },
+        "78": {
+          "84": 1,
+          "86": 1,
+          "104": 1,
+          "106": 2,
+          "108": 1,
+          "112": 1,
+          "114": 1
+        },
+        "80": {
+          "88": 1,
+          "100": 1,
+          "102": 1,
+          "114": 1,
+          "164": 4
+        },
+        "82": {
+          "90": 1,
+          "98": 1,
+          "116": 1,
+          "164": 1,
+          "166": 1
+        },
+        "84": {
+          "92": 1,
+          "94": 1,
+          "96": 1,
+          "116": 1,
+          "162": 1,
+          "164": 1
+        },
+        "86": {
+          "116": 1,
+          "164": 1,
+          "180": 1
+        },
+        "88": {
+          "116": 1,
+          "160": 1,
+          "180": 2,
+          "182": 2,
+          "184": 2
+        },
+        "90": {
+          "118": 1,
+          "164": 1,
+          "180": 3,
+          "182": 1,
+          "184": 2,
+          "186": 1
+        },
+        "92": {
+          "120": 1,
+          "128": 27,
+          "160": 1,
+          "164": 1,
+          "182": 1,
+          "184": 1
+        },
+        "94": {
+          "120": 1,
+          "126": 4,
+          "128": 4,
+          "166": 1,
+          "176": 1,
+          "178": 2,
+          "180": 2,
+          "182": 1
+        },
+        "96": {
+          "120": 1,
+          "124": 4,
+          "158": 1,
+          "166": 1,
+          "174": 1,
+          "176": 1
+        },
+        "98": {
+          "120": 3,
+          "122": 7,
+          "168": 1,
+          "172": 1,
+          "174": 1
+        },
+        "100": {
+          "116": 2,
+          "118": 4,
+          "120": 1,
+          "156": 1,
+          "168": 1,
+          "172": 1
+        },
+        "102": {
+          "114": 2,
+          "116": 2,
+          "120": 1,
+          "170": 1
+        },
+        "104": {
+          "114": 1,
+          "122": 1,
+          "156": 1,
+          "168": 1
+        },
+        "106": {
+          "114": 2,
+          "124": 1,
+          "160": 2,
+          "168": 1
+        },
+        "108": {
+          "112": 3,
+          "126": 1,
+          "156": 1,
+          "162": 1,
+          "164": 1,
+          "166": 1
+        },
+        "110": {
+          "112": 2,
+          "114": 1,
+          "116": 3,
+          "128": 1,
+          "164": 1,
+          "166": 1,
+          "170": 2,
+          "172": 1,
+          "174": 2,
+          "176": 3
+        },
+        "112": {
+          "110": 1,
+          "114": 6,
+          "116": 5,
+          "118": 2,
+          "126": 1,
+          "128": 1,
+          "156": 1,
+          "166": 1,
+          "168": 1,
+          "176": 3
+        },
+        "114": {
+          "114": 3,
+          "116": 4,
+          "118": 4,
+          "120": 3,
+          "124": 1,
+          "136": 1
+        },
+        "116": {
+          "110": 1,
+          "114": 2,
+          "116": 13,
+          "118": 7,
+          "120": 3,
+          "122": 2,
+          "124": 1,
+          "136": 4,
+          "156": 1,
+          "166": 1
+        },
+        "118": {
+          "110": 1,
+          "114": 4,
+          "116": 6,
+          "118": 16,
+          "120": 17,
+          "122": 5,
+          "124": 6,
+          "136": 3,
+          "164": 1
+        },
+        "120": {
+          "110": 1,
+          "114": 5,
+          "118": 3,
+          "120": 29,
+          "122": 33,
+          "124": 4,
+          "136": 2,
+          "138": 1,
+          "158": 1,
+          "164": 1
+        },
+        "122": {
+          "114": 1,
+          "116": 1,
+          "118": 1,
+          "120": 6,
+          "122": 17,
+          "124": 12,
+          "126": 4,
+          "128": 1,
+          "136": 3
+        },
+        "124": {
+          "110": 1,
+          "112": 1,
+          "118": 1,
+          "122": 1,
+          "124": 5,
+          "126": 4,
+          "128": 4,
+          "130": 8,
+          "132": 1,
+          "134": 7,
+          "136": 2,
+          "138": 2,
+          "156": 1,
+          "162": 1,
+          "164": 1
+        },
+        "126": {
+          "108": 2,
+          "118": 1,
+          "126": 17,
+          "128": 24,
+          "130": 11,
+          "132": 4,
+          "134": 1,
+          "138": 1,
+          "140": 4,
+          "142": 4,
+          "160": 1
+        },
+        "128": {
+          "108": 2,
+          "116": 1,
+          "126": 1,
+          "128": 11,
+          "130": 8,
+          "132": 1,
+          "134": 1,
+          "142": 2,
+          "144": 1,
+          "146": 1,
+          "148": 1,
+          "156": 1,
+          "158": 1
+        },
+        "130": {
+          "108": 3,
+          "126": 2,
+          "128": 5,
+          "130": 5,
+          "132": 1,
+          "144": 1,
+          "146": 1,
+          "148": 1,
+          "150": 2,
+          "152": 1,
+          "154": 1,
+          "156": 1
+        },
+        "132": {
+          "108": 3,
+          "114": 1,
+          "128": 2,
+          "130": 10,
+          "144": 2,
+          "148": 1,
+          "150": 2,
+          "152": 1
+        },
+        "134": {
+          "114": 1,
+          "128": 1,
+          "132": 2,
+          "144": 1,
+          "146": 1
+        },
+        "136": {
+          "112": 1,
+          "128": 2,
+          "132": 2,
+          "144": 5
+        },
+        "138": {
+          "110": 1,
+          "130": 1,
+          "132": 1,
+          "142": 1
+        },
+        "140": {
+          "108": 1,
+          "132": 1,
+          "134": 1,
+          "138": 1,
+          "140": 1
+        },
+        "142": {
+          "108": 1,
+          "120": 1,
+          "122": 1,
+          "124": 1,
+          "128": 1,
+          "130": 1,
+          "132": 5,
+          "134": 1,
+          "136": 9,
+          "138": 1
+        },
+        "144": {
+          "114": 1,
+          "116": 1
+        },
+        "146": {
+          "110": 1,
+          "112": 2
+        }
+      },
+      "last_hits": 62,
+      "leaver_status": 0,
+      "level": 10,
+      "lh_t": [
+        0,
+        3,
+        12,
+        17,
+        22,
+        28,
+        35,
+        47,
+        54,
+        59,
+        62,
+        62,
+        62
+      ],
+      "life_state": {
+        "0": 741
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 565,
+        "max": true,
+        "inflictor": null,
+        "unit": "npc_dota_hero_shadow_shaman",
+        "key": "npc_dota_hero_lion",
+        "value": 291,
+        "slot": 3,
+        "player_slot": 3
+      },
+      "multi_kills": {},
+      "net_worth": 4958,
+      "obs": {},
+      "obs_left_log": [],
+      "obs_log": [],
+      "obs_placed": 0,
+      "party_id": 0,
+      "party_size": 5,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pings": 2,
+      "pred_vict": false,
+      "purchase": {
+        "flask": 2,
+        "enchanted_mango": 1,
+        "wind_lace": 1,
+        "branches": 3,
+        "blight_stone": 1,
+        "boots": 1,
+        "infused_raindrop": 1,
+        "shadow_amulet": 1,
+        "claymore": 1,
+        "tpscroll": 2,
+        "invis_sword": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "flask"
+        },
+        {
+          "time": -89,
+          "key": "enchanted_mango"
+        },
+        {
+          "time": -76,
+          "key": "wind_lace"
+        },
+        {
+          "time": -69,
+          "key": "branches"
+        },
+        {
+          "time": -69,
+          "key": "branches"
+        },
+        {
+          "time": -68,
+          "key": "branches"
+        },
+        {
+          "time": 79,
+          "key": "blight_stone"
+        },
+        {
+          "time": 120,
+          "key": "boots"
+        },
+        {
+          "time": 132,
+          "key": "flask"
+        },
+        {
+          "time": 230,
+          "key": "infused_raindrop"
+        },
+        {
+          "time": 365,
+          "key": "shadow_amulet"
+        },
+        {
+          "time": 476,
+          "key": "claymore"
+        },
+        {
+          "time": 477,
+          "key": "tpscroll"
+        },
+        {
+          "time": 477,
+          "key": "tpscroll"
+        },
+        {
+          "time": 525,
+          "key": "invis_sword"
+        }
+      ],
+      "randomed": false,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 6,
+      "runes": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "5": 3
+      },
+      "runes_log": [
+        {
+          "time": 0,
+          "key": 5
+        },
+        {
+          "time": 249,
+          "key": 2
+        },
+        {
+          "time": 389,
+          "key": 3
+        },
+        {
+          "time": 446,
+          "key": 5
+        },
+        {
+          "time": 493,
+          "key": 1
+        },
+        {
+          "time": 559,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 2.7659912,
+      "teamfight_participation": 0.8,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 795,
+      "towers_killed": 1,
+      "xp_per_min": 545,
+      "xp_reasons": {
+        "0": 185,
+        "1": 900,
+        "2": 4326
+      },
+      "xp_t": [
+        0,
+        301,
+        905,
+        1392,
+        1876,
+        2336,
+        3214,
+        3824,
+        4331,
+        4821,
+        5409,
+        5409,
+        5409
+      ],
+      "team_number": 0,
+      "team_slot": 3,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "personaname": "MALefic",
+      "name": "MALefic",
+      "last_login": "2024-04-28T05:07:19.207Z",
+      "rank_tier": 80,
+      "computed_mmr": 4006.76,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": true,
+      "win": 1,
+      "lose": 0,
+      "total_gold": 4750,
+      "total_xp": 5404,
+      "kills_per_min": 0.3025210084033614,
+      "kda": 4,
+      "abandons": 0,
+      "neutral_kills": 0,
+      "tower_kills": 1,
+      "courier_kills": 0,
+      "lane_kills": 69,
+      "hero_kills": 3,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 0,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.9605901374292644,
+      "lane_efficiency_pct": 96,
+      "lane": 2,
+      "lane_role": 2,
+      "is_roaming": false,
+      "purchase_time": {
+        "flask": 43,
+        "enchanted_mango": -89,
+        "wind_lace": -76,
+        "branches": -206,
+        "blight_stone": 79,
+        "boots": 120,
+        "infused_raindrop": 230,
+        "shadow_amulet": 365,
+        "claymore": 476,
+        "tpscroll": 954,
+        "invis_sword": 525
+      },
+      "first_purchase_time": {
+        "flask": -89,
+        "enchanted_mango": -89,
+        "wind_lace": -76,
+        "branches": -69,
+        "blight_stone": 79,
+        "boots": 120,
+        "infused_raindrop": 230,
+        "shadow_amulet": 365,
+        "claymore": 476,
+        "tpscroll": 477,
+        "invis_sword": 525
+      },
+      "item_win": {
+        "flask": 1,
+        "enchanted_mango": 1,
+        "wind_lace": 1,
+        "branches": 1,
+        "blight_stone": 1,
+        "boots": 1,
+        "infused_raindrop": 1,
+        "shadow_amulet": 1,
+        "claymore": 1,
+        "tpscroll": 1,
+        "invis_sword": 1
+      },
+      "item_usage": {
+        "flask": 1,
+        "enchanted_mango": 1,
+        "wind_lace": 1,
+        "branches": 1,
+        "blight_stone": 1,
+        "boots": 1,
+        "infused_raindrop": 1,
+        "shadow_amulet": 1,
+        "claymore": 1,
+        "tpscroll": 1,
+        "invis_sword": 1
+      },
+      "purchase_tpscroll": 2,
+      "actions_per_min": 196,
+      "life_state_dead": 0,
+      "cosmetics": [
+        {
+          "item_id": 17262,
+          "name": "The International 2017 Effects",
+          "prefab": "tool",
+          "creation_date": "2017-02-13T00:00:00.000Z",
+          "image_inventory": "econ/testitem_slot_empty",
+          "image_path": "icons/econ/testitem_slot_empty.9ae65324bc948eba453c8f17be8e74c7362c80c0.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_The_International_2017_Effects",
+          "item_rarity": "mythical",
+          "item_type_name": null,
+          "used_by_heroes": null
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 479,
+          "pct": 0.9424619640387275
+        },
+        "xp_per_min": {
+          "raw": 545,
+          "pct": 0.47330567081604424
+        },
+        "kills_per_min": {
+          "raw": 0.3025210084033614,
+          "pct": 0.9881051175656985
+        },
+        "last_hits_per_min": {
+          "raw": 6.2521008403361344,
+          "pct": 0.9966804979253112
+        },
+        "hero_damage_per_min": {
+          "raw": 380.0672268907563,
+          "pct": 0.5604426002766252
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.6639004149377593
+        },
+        "tower_damage": {
+          "raw": 795,
+          "pct": 0.2929460580912863
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 4,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5094,
+        5096,
+        5094,
+        5095,
+        5094,
+        5097,
+        5094,
+        5095
+      ],
+      "ability_uses": {
+        "sven_storm_bolt": 7,
+        "sven_warcry": 5,
+        "sven_gods_strength": 1
+      },
+      "account_id": 106141203,
+      "actions": {
+        "1": 1559,
+        "2": 53,
+        "3": 1,
+        "4": 244,
+        "5": 3,
+        "6": 11,
+        "7": 24,
+        "8": 23,
+        "10": 19,
+        "11": 8,
+        "15": 2,
+        "16": 15,
+        "19": 2,
+        "33": 19
+      },
+      "additional_units": null,
+      "assists": 0,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_creep_goodguys_ranged": 346,
+        "npc_dota_creep_badguys_melee": 6677,
+        "npc_dota_hero_earthshaker": 1604,
+        "npc_dota_creep_goodguys_melee": 585,
+        "npc_dota_creep_badguys_ranged": 2512,
+        "npc_dota_hero_sniper": 132,
+        "npc_dota_badguys_siege": 175,
+        "npc_dota_badguys_tower1_bot": 295,
+        "npc_dota_neutral_harpy_scout": 870,
+        "npc_dota_neutral_harpy_storm": 653,
+        "npc_dota_neutral_ghost": 537,
+        "npc_dota_neutral_fel_beast": 946
+      },
+      "damage_inflictor": {
+        "sven_storm_bolt": 1030,
+        "null": 547,
+        "sven_great_cleave": 159
+      },
+      "damage_inflictor_received": {
+        "null": 1440,
+        "earthshaker_fissure": 613,
+        "sniper_shrapnel": 242,
+        "earthshaker_aftershock": 114
+      },
+      "damage_taken": {
+        "npc_dota_creep_badguys_melee": 212,
+        "npc_dota_creep_badguys_ranged": 67,
+        "npc_dota_hero_sniper": 1388,
+        "npc_dota_hero_earthshaker": 1021,
+        "npc_dota_badguys_tower1_bot": 379,
+        "npc_dota_neutral_harpy_storm": 17,
+        "npc_dota_neutral_ghost": 20
+      },
+      "damage_targets": null,
+      "deaths": 0,
+      "denies": 11,
+      "dn_t": [
+        0,
+        1,
+        5,
+        8,
+        8,
+        9,
+        9,
+        10,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "firstblood_claimed": 0,
+      "gold": 110,
+      "gold_per_min": 322,
+      "gold_reasons": {
+        "0": 725,
+        "11": 240,
+        "12": 298,
+        "13": 1660
+      },
+      "gold_spent": 3715,
+      "gold_t": [
+        0,
+        190,
+        386,
+        744,
+        956,
+        1212,
+        1384,
+        1865,
+        2313,
+        2976,
+        3200,
+        3200,
+        3200
+      ],
+      "hero_damage": 1736,
+      "hero_healing": 0,
+      "hero_hits": {
+        "sven_storm_bolt": 6,
+        "null": 6,
+        "sven_great_cleave": 5
+      },
+      "hero_id": 18,
+      "item_0": 11,
+      "item_1": 182,
+      "item_2": 63,
+      "item_3": 36,
+      "item_4": 0,
+      "item_5": 26,
+      "item_neutral": 0,
+      "item_uses": {
+        "quelling_blade": 14,
+        "branches": 2,
+        "tango": 8,
+        "magic_wand": 1,
+        "tango_single": 1,
+        "power_treads": 12,
+        "tpscroll": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_creep_goodguys_ranged": 4,
+        "npc_dota_creep_goodguys_melee": 7,
+        "npc_dota_creep_badguys_melee": 25,
+        "npc_dota_creep_badguys_ranged": 12,
+        "npc_dota_badguys_siege": 1,
+        "npc_dota_hero_earthshaker": 1,
+        "npc_dota_neutral_fel_beast": 2,
+        "npc_dota_neutral_harpy_scout": 2,
+        "npc_dota_neutral_ghost": 1,
+        "npc_dota_neutral_harpy_storm": 1
+      },
+      "killed_by": {},
+      "kills": 1,
+      "kills_log": [
+        {
+          "time": 490,
+          "key": "npc_dota_hero_earthshaker"
+        }
+      ],
+      "lane_pos": {
+        "72": {
+          "78": 3
+        },
+        "74": {
+          "76": 1,
+          "80": 1
+        },
+        "76": {
+          "76": 6,
+          "78": 1,
+          "80": 1
+        },
+        "78": {
+          "78": 1,
+          "80": 1
+        },
+        "80": {
+          "78": 2
+        },
+        "82": {
+          "78": 1
+        },
+        "84": {
+          "78": 2
+        },
+        "86": {
+          "78": 2
+        },
+        "88": {
+          "78": 1
+        },
+        "90": {
+          "78": 2
+        },
+        "92": {
+          "78": 1
+        },
+        "94": {
+          "78": 2
+        },
+        "96": {
+          "78": 2
+        },
+        "98": {
+          "78": 2
+        },
+        "100": {
+          "78": 1
+        },
+        "102": {
+          "78": 2
+        },
+        "104": {
+          "78": 2
+        },
+        "106": {
+          "78": 3
+        },
+        "110": {
+          "78": 2
+        },
+        "112": {
+          "78": 2
+        },
+        "114": {
+          "78": 2
+        },
+        "116": {
+          "78": 1
+        },
+        "118": {
+          "78": 2
+        },
+        "120": {
+          "78": 2
+        },
+        "122": {
+          "80": 1
+        },
+        "124": {
+          "78": 1,
+          "80": 1
+        },
+        "126": {
+          "76": 1,
+          "80": 1
+        },
+        "128": {
+          "82": 1
+        },
+        "130": {
+          "78": 1,
+          "80": 1,
+          "84": 1
+        },
+        "132": {
+          "78": 2,
+          "82": 1,
+          "86": 1,
+          "88": 1
+        },
+        "134": {
+          "76": 2,
+          "84": 1,
+          "86": 1,
+          "88": 2
+        },
+        "136": {
+          "76": 1,
+          "78": 1,
+          "90": 2,
+          "92": 2,
+          "94": 18,
+          "96": 3
+        },
+        "138": {
+          "76": 1,
+          "78": 1,
+          "92": 1,
+          "94": 14,
+          "96": 11
+        },
+        "140": {
+          "78": 1,
+          "92": 2,
+          "98": 1
+        },
+        "142": {
+          "78": 2,
+          "94": 1,
+          "98": 1
+        },
+        "144": {
+          "80": 1,
+          "94": 1,
+          "96": 1,
+          "98": 1,
+          "100": 1
+        },
+        "146": {
+          "78": 1,
+          "80": 1,
+          "98": 1
+        },
+        "148": {
+          "78": 1,
+          "80": 1
+        },
+        "150": {
+          "78": 1,
+          "82": 1,
+          "92": 2
+        },
+        "152": {
+          "78": 1,
+          "84": 1,
+          "90": 3,
+          "92": 2
+        },
+        "154": {
+          "80": 1,
+          "86": 1,
+          "88": 1,
+          "90": 1
+        },
+        "156": {
+          "80": 1,
+          "90": 1
+        },
+        "158": {
+          "80": 1
+        },
+        "160": {
+          "80": 1,
+          "82": 2,
+          "90": 1
+        },
+        "162": {
+          "76": 2,
+          "78": 2,
+          "80": 3,
+          "82": 3,
+          "88": 1
+        },
+        "164": {
+          "74": 6,
+          "78": 4,
+          "80": 3,
+          "82": 4,
+          "88": 1
+        },
+        "166": {
+          "78": 10,
+          "80": 5,
+          "82": 6,
+          "88": 1
+        },
+        "168": {
+          "76": 3,
+          "78": 9,
+          "80": 18,
+          "82": 11,
+          "84": 2,
+          "86": 3,
+          "88": 1,
+          "90": 1
+        },
+        "170": {
+          "80": 4,
+          "82": 31,
+          "84": 20,
+          "86": 6,
+          "88": 3,
+          "90": 2,
+          "92": 1,
+          "96": 8,
+          "98": 1
+        },
+        "172": {
+          "80": 2,
+          "82": 6,
+          "84": 22,
+          "86": 16,
+          "88": 11,
+          "90": 5,
+          "92": 5,
+          "94": 6,
+          "96": 2,
+          "98": 3,
+          "100": 1,
+          "102": 3
+        },
+        "174": {
+          "78": 1,
+          "80": 3,
+          "82": 5,
+          "84": 5,
+          "86": 14,
+          "88": 30,
+          "90": 25,
+          "92": 12,
+          "94": 18,
+          "96": 5,
+          "98": 6,
+          "100": 6,
+          "102": 11,
+          "104": 2
+        },
+        "176": {
+          "80": 3,
+          "88": 3,
+          "90": 8,
+          "92": 9,
+          "94": 14,
+          "96": 7,
+          "98": 15,
+          "100": 7,
+          "102": 1,
+          "104": 2,
+          "106": 4,
+          "108": 2,
+          "110": 1,
+          "112": 9
+        },
+        "178": {
+          "90": 1,
+          "94": 1,
+          "96": 2,
+          "98": 2,
+          "100": 5,
+          "102": 1,
+          "104": 1,
+          "106": 3,
+          "114": 1,
+          "116": 1
+        },
+        "180": {
+          "94": 1,
+          "96": 2,
+          "106": 2,
+          "118": 1
+        },
+        "182": {
+          "90": 1,
+          "92": 1,
+          "94": 2,
+          "114": 1,
+          "116": 2
+        },
+        "184": {
+          "108": 1,
+          "114": 1
+        },
+        "186": {
+          "108": 1,
+          "110": 4,
+          "112": 1
+        }
+      },
+      "last_hits": 44,
+      "leaver_status": 0,
+      "level": 8,
+      "lh_t": [
+        0,
+        0,
+        3,
+        10,
+        13,
+        17,
+        19,
+        25,
+        31,
+        38,
+        44,
+        44,
+        44
+      ],
+      "life_state": {
+        "0": 741
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 471,
+        "max": true,
+        "inflictor": "sven_storm_bolt",
+        "unit": "npc_dota_hero_sven",
+        "key": "npc_dota_hero_earthshaker",
+        "value": 250,
+        "slot": 4,
+        "player_slot": 4
+      },
+      "multi_kills": {},
+      "net_worth": 3425,
+      "obs": {},
+      "obs_left_log": [],
+      "obs_log": [],
+      "obs_placed": 0,
+      "party_id": 0,
+      "party_size": 5,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pings": 2,
+      "pred_vict": false,
+      "purchase": {
+        "quelling_blade": 1,
+        "stout_shield": 1,
+        "tango": 2,
+        "branches": 4,
+        "boots": 1,
+        "circlet": 1,
+        "magic_wand": 1,
+        "magic_stick": 1,
+        "gloves": 1,
+        "power_treads": 1,
+        "belt_of_strength": 1,
+        "tpscroll": 1,
+        "lifesteal": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "quelling_blade"
+        },
+        {
+          "time": -89,
+          "key": "stout_shield"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": 250,
+          "key": "boots"
+        },
+        {
+          "time": 251,
+          "key": "circlet"
+        },
+        {
+          "time": 251,
+          "key": "branches"
+        },
+        {
+          "time": 251,
+          "key": "branches"
+        },
+        {
+          "time": 251,
+          "key": "magic_wand"
+        },
+        {
+          "time": 251,
+          "key": "magic_stick"
+        },
+        {
+          "time": 254,
+          "key": "tango"
+        },
+        {
+          "time": 418,
+          "key": "gloves"
+        },
+        {
+          "time": 445,
+          "key": "power_treads"
+        },
+        {
+          "time": 445,
+          "key": "belt_of_strength"
+        },
+        {
+          "time": 558,
+          "key": "tpscroll"
+        },
+        {
+          "time": 561,
+          "key": "lifesteal"
+        }
+      ],
+      "randomed": false,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 1,
+      "runes": {
+        "5": 1
+      },
+      "runes_log": [
+        {
+          "time": 0,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 11.93042,
+      "teamfight_participation": 0.2,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 295,
+      "towers_killed": 0,
+      "xp_per_min": 412,
+      "xp_reasons": {
+        "0": 1,
+        "1": 280,
+        "2": 3813
+      },
+      "xp_t": [
+        0,
+        58,
+        426,
+        912,
+        1321,
+        1673,
+        2029,
+        2699,
+        3119,
+        3819,
+        4093,
+        4093,
+        4093
+      ],
+      "team_number": 0,
+      "team_slot": 4,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "personaname": "经纪人",
+      "name": null,
+      "last_login": "2021-11-10T23:19:36.406Z",
+      "rank_tier": 72,
+      "computed_mmr": 4092.45,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": true,
+      "win": 1,
+      "lose": 0,
+      "total_gold": 3193,
+      "total_xp": 4085,
+      "kills_per_min": 0.10084033613445378,
+      "kda": 1,
+      "abandons": 0,
+      "neutral_kills": 6,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 48,
+      "hero_kills": 1,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 0,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.6467259498787389,
+      "lane_efficiency_pct": 64,
+      "lane": 1,
+      "lane_role": 1,
+      "is_roaming": false,
+      "purchase_time": {
+        "quelling_blade": -89,
+        "stout_shield": -89,
+        "tango": 165,
+        "branches": 324,
+        "boots": 250,
+        "circlet": 251,
+        "magic_wand": 251,
+        "magic_stick": 251,
+        "gloves": 418,
+        "power_treads": 445,
+        "belt_of_strength": 445,
+        "tpscroll": 558,
+        "lifesteal": 561
+      },
+      "first_purchase_time": {
+        "quelling_blade": -89,
+        "stout_shield": -89,
+        "tango": -89,
+        "branches": -89,
+        "boots": 250,
+        "circlet": 251,
+        "magic_wand": 251,
+        "magic_stick": 251,
+        "gloves": 418,
+        "power_treads": 445,
+        "belt_of_strength": 445,
+        "tpscroll": 558,
+        "lifesteal": 561
+      },
+      "item_win": {
+        "quelling_blade": 1,
+        "stout_shield": 1,
+        "tango": 1,
+        "branches": 1,
+        "boots": 1,
+        "circlet": 1,
+        "magic_wand": 1,
+        "magic_stick": 1,
+        "gloves": 1,
+        "power_treads": 1,
+        "belt_of_strength": 1,
+        "tpscroll": 1,
+        "lifesteal": 1
+      },
+      "item_usage": {
+        "quelling_blade": 1,
+        "stout_shield": 1,
+        "tango": 1,
+        "branches": 1,
+        "boots": 1,
+        "circlet": 1,
+        "magic_wand": 1,
+        "magic_stick": 1,
+        "gloves": 1,
+        "power_treads": 1,
+        "belt_of_strength": 1,
+        "tpscroll": 1,
+        "lifesteal": 1
+      },
+      "purchase_tpscroll": 1,
+      "actions_per_min": 199,
+      "life_state_dead": 0,
+      "cosmetics": [
+        {
+          "item_id": 9358,
+          "name": "Meranth Dragoon Pauldrons",
+          "prefab": "wearable",
+          "creation_date": "2017-05-16T00:00:00.000Z",
+          "image_inventory": "econ/items/sven/meranth_dragoon_sven_shoulder/meranth_dragoon_sven_shoulder",
+          "image_path": "icons/econ/items/sven/meranth_dragoon_sven_shoulder/meranth_dragoon_sven_shoulder.74751bad3cf43c06c5103f3cc1c76bcc6ccf58fa.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Meranth_Dragoon_Pauldrons",
+          "item_rarity": "mythical",
+          "item_type_name": "#DOTA_WearableType_Shoulder",
+          "used_by_heroes": "npc_dota_hero_sven"
+        },
+        {
+          "item_id": 9359,
+          "name": "Meranth Dragoon Shield",
+          "prefab": "wearable",
+          "creation_date": "2017-05-16T00:00:00.000Z",
+          "image_inventory": "econ/items/sven/meranth_dragoon_sven_arms/meranth_dragoon_sven_arms",
+          "image_path": "icons/econ/items/sven/meranth_dragoon_sven_arms/meranth_dragoon_sven_arms.d8e03b9bba50af8d7b7871e5ae8fd1f2276281e6.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Meranth_Dragoon_Shield",
+          "item_rarity": "mythical",
+          "item_type_name": "#DOTA_WearableType_Arms",
+          "used_by_heroes": "npc_dota_hero_sven"
+        },
+        {
+          "item_id": 9360,
+          "name": "Meranth Dragoon Finblade",
+          "prefab": "wearable",
+          "creation_date": "2017-05-16T00:00:00.000Z",
+          "image_inventory": "econ/items/sven/meranth_dragoon_sven_weapon/meranth_dragoon_sven_weapon",
+          "image_path": "icons/econ/items/sven/meranth_dragoon_sven_weapon/meranth_dragoon_sven_weapon.182ac3cb408dd8a1911994e1cca15b1b0c807749.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Meranth_Dragoon_Finblade",
+          "item_rarity": "mythical",
+          "item_type_name": "#DOTA_WearableType_Weapon",
+          "used_by_heroes": "npc_dota_hero_sven"
+        },
+        {
+          "item_id": 9371,
+          "name": "Meranth Dragoon Armor",
+          "prefab": "wearable",
+          "creation_date": "2017-05-16T00:00:00.000Z",
+          "image_inventory": "econ/items/sven/meranth_dragoon_sven_back/meranth_dragoon_sven_back",
+          "image_path": "icons/econ/items/sven/meranth_dragoon_sven_back/meranth_dragoon_sven_back.d412ffcff0a4816335be06d132b96ef1cddb1199.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Meranth_Dragoon_Armor",
+          "item_rarity": "mythical",
+          "item_type_name": "#DOTA_WearableType_Back",
+          "used_by_heroes": "npc_dota_hero_sven"
+        },
+        {
+          "item_id": 9372,
+          "name": "Meranth Dragoon Belt",
+          "prefab": "wearable",
+          "creation_date": "2017-05-16T00:00:00.000Z",
+          "image_inventory": "econ/items/sven/meranth_dragoon_sven_belt/meranth_dragoon_sven_belt",
+          "image_path": "icons/econ/items/sven/meranth_dragoon_sven_belt/meranth_dragoon_sven_belt.dd5f2daa78049fc94e3ce5efbb911dd3256a2b17.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Meranth_Dragoon_Belt",
+          "item_rarity": "mythical",
+          "item_type_name": "#DOTA_WearableType_Belt",
+          "used_by_heroes": "npc_dota_hero_sven"
+        },
+        {
+          "item_id": 9373,
+          "name": "Meranth Dragoon Helm",
+          "prefab": "wearable",
+          "creation_date": "2017-05-16T00:00:00.000Z",
+          "image_inventory": "econ/items/sven/meranth_dragoon_sven_head/meranth_dragoon_sven_head",
+          "image_path": "icons/econ/items/sven/meranth_dragoon_sven_head/meranth_dragoon_sven_head.6b79db361e301e7b83d1c4a82b8a6cbc5806392f.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Meranth_Dragoon_Helm",
+          "item_rarity": "mythical",
+          "item_type_name": "#DOTA_WearableType_Head",
+          "used_by_heroes": "npc_dota_hero_sven"
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 322,
+          "pct": 0.058355437665782495
+        },
+        "xp_per_min": {
+          "raw": 412,
+          "pct": 0.0636604774535809
+        },
+        "kills_per_min": {
+          "raw": 0.10084033613445378,
+          "pct": 0.19805481874447392
+        },
+        "last_hits_per_min": {
+          "raw": 4.436974789915967,
+          "pct": 0.10786914235190097
+        },
+        "hero_damage_per_min": {
+          "raw": 175.05882352941177,
+          "pct": 0.036251105216622455
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.9442970822281167
+        },
+        "tower_damage": {
+          "raw": 295,
+          "pct": 0.1909814323607427
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 128,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5378,
+        5377,
+        5377,
+        5379,
+        5377
+      ],
+      "ability_uses": {
+        "silencer_curse_of_the_silent": 7
+      },
+      "account_id": null,
+      "actions": {
+        "1": 849,
+        "2": 1,
+        "3": 1,
+        "4": 260,
+        "5": 21,
+        "6": 36,
+        "7": 4,
+        "8": 2,
+        "11": 6,
+        "15": 7,
+        "16": 11,
+        "20": 4
+      },
+      "additional_units": null,
+      "assists": 0,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_creep_goodguys_melee": 4529,
+        "npc_dota_creep_badguys_melee": 49,
+        "npc_dota_creep_goodguys_ranged": 1359,
+        "npc_dota_hero_shadow_shaman": 1216,
+        "npc_dota_goodguys_tower1_mid": 117,
+        "npc_dota_creep_badguys_ranged": 63
+      },
+      "damage_inflictor": {
+        "silencer_curse_of_the_silent": 652,
+        "silencer_glaives_of_wisdom": 106,
+        "null": 458
+      },
+      "damage_inflictor_received": {
+        "shadow_shaman_ether_shock": 719,
+        "null": 211
+      },
+      "damage_taken": {
+        "npc_dota_creep_goodguys_melee": 123,
+        "npc_dota_hero_shadow_shaman": 930,
+        "npc_dota_creep_goodguys_ranged": 40
+      },
+      "damage_targets": null,
+      "deaths": 0,
+      "denies": 0,
+      "dn_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "firstblood_claimed": 0,
+      "gold": 0,
+      "gold_per_min": 209,
+      "gold_reasons": {
+        "0": 846,
+        "5": 257,
+        "13": 694
+      },
+      "gold_spent": 2010,
+      "gold_t": [
+        0,
+        227,
+        436,
+        715,
+        999,
+        1186,
+        1277,
+        1431,
+        1642,
+        1733,
+        2077,
+        2077,
+        2077
+      ],
+      "hero_damage": 1216,
+      "hero_healing": 0,
+      "hero_hits": {
+        "silencer_curse_of_the_silent": 46,
+        "silencer_glaives_of_wisdom": 8,
+        "null": 8
+      },
+      "hero_id": 75,
+      "item_0": 77,
+      "item_1": 29,
+      "item_2": 36,
+      "item_3": 25,
+      "item_4": 0,
+      "item_5": 0,
+      "item_neutral": 0,
+      "item_uses": {
+        "tango": 4,
+        "tpscroll": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_creep_goodguys_melee": 13,
+        "npc_dota_creep_goodguys_ranged": 5
+      },
+      "killed_by": {},
+      "kills": 0,
+      "kills_log": [],
+      "lane_pos": {
+        "114": {
+          "136": 2
+        },
+        "116": {
+          "122": 1,
+          "124": 2,
+          "136": 1
+        },
+        "118": {
+          "120": 8,
+          "122": 7,
+          "124": 6,
+          "136": 1,
+          "138": 1
+        },
+        "120": {
+          "120": 10,
+          "122": 14,
+          "124": 10,
+          "126": 7,
+          "128": 1,
+          "136": 1,
+          "138": 1
+        },
+        "122": {
+          "120": 3,
+          "122": 5,
+          "124": 12,
+          "126": 10,
+          "128": 5,
+          "132": 1,
+          "134": 2,
+          "136": 2
+        },
+        "124": {
+          "124": 3,
+          "126": 10,
+          "128": 17,
+          "130": 2,
+          "132": 1
+        },
+        "126": {
+          "128": 8,
+          "130": 6
+        },
+        "128": {
+          "126": 1,
+          "128": 4,
+          "130": 5,
+          "132": 3
+        },
+        "130": {
+          "128": 5,
+          "130": 6,
+          "132": 6
+        },
+        "132": {
+          "128": 3,
+          "130": 10,
+          "132": 11,
+          "134": 1
+        },
+        "134": {
+          "128": 1,
+          "130": 2,
+          "132": 9
+        },
+        "136": {
+          "132": 3,
+          "134": 1
+        },
+        "138": {
+          "134": 4,
+          "136": 1
+        },
+        "140": {
+          "134": 2,
+          "136": 3,
+          "138": 1
+        },
+        "142": {
+          "134": 1,
+          "136": 1,
+          "138": 2
+        },
+        "144": {
+          "136": 2,
+          "138": 1,
+          "140": 1,
+          "142": 2
+        },
+        "146": {
+          "138": 1,
+          "140": 1,
+          "142": 2
+        },
+        "148": {
+          "120": 1,
+          "138": 3,
+          "140": 1,
+          "142": 1,
+          "144": 3
+        },
+        "150": {
+          "122": 2,
+          "138": 4,
+          "140": 1,
+          "142": 2,
+          "146": 2
+        },
+        "152": {
+          "124": 2,
+          "126": 1,
+          "128": 1,
+          "130": 1,
+          "138": 4,
+          "144": 3,
+          "146": 5,
+          "148": 5
+        },
+        "154": {
+          "128": 1,
+          "130": 49,
+          "132": 15,
+          "134": 2,
+          "136": 4,
+          "148": 1,
+          "150": 1
+        },
+        "156": {
+          "132": 1,
+          "134": 1,
+          "136": 2,
+          "138": 3,
+          "140": 2,
+          "144": 2,
+          "146": 1,
+          "148": 1,
+          "152": 1
+        },
+        "158": {
+          "146": 1,
+          "148": 2,
+          "150": 2,
+          "152": 2,
+          "154": 1,
+          "156": 1
+        },
+        "160": {
+          "152": 2,
+          "154": 1,
+          "158": 1
+        },
+        "162": {
+          "154": 3,
+          "156": 1,
+          "160": 1
+        },
+        "164": {
+          "156": 2,
+          "158": 1,
+          "162": 1
+        },
+        "166": {
+          "158": 2,
+          "160": 1,
+          "162": 1,
+          "164": 1
+        },
+        "168": {
+          "160": 2,
+          "162": 1,
+          "168": 1
+        },
+        "170": {
+          "160": 1,
+          "162": 2,
+          "170": 1
+        },
+        "172": {
+          "162": 1,
+          "164": 3,
+          "170": 1
+        },
+        "174": {
+          "164": 1,
+          "166": 2,
+          "168": 1,
+          "172": 1
+        },
+        "176": {
+          "168": 2,
+          "170": 3,
+          "174": 1
+        },
+        "178": {
+          "172": 3,
+          "174": 2,
+          "176": 1
+        },
+        "180": {
+          "174": 85,
+          "176": 13,
+          "178": 65
+        },
+        "182": {
+          "174": 18,
+          "176": 21,
+          "178": 31,
+          "180": 15
+        }
+      },
+      "last_hits": 18,
+      "leaver_status": 1,
+      "level": 5,
+      "lh_t": [
+        0,
+        1,
+        4,
+        9,
+        14,
+        15,
+        15,
+        15,
+        18,
+        18,
+        18,
+        18,
+        18
+      ],
+      "life_state": {
+        "0": 741
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 145,
+        "max": true,
+        "inflictor": null,
+        "unit": "npc_dota_hero_silencer",
+        "key": "npc_dota_hero_shadow_shaman",
+        "value": 111,
+        "slot": 5,
+        "player_slot": 128
+      },
+      "multi_kills": {},
+      "net_worth": 1835,
+      "obs": {},
+      "obs_left_log": [],
+      "obs_log": [],
+      "obs_placed": 0,
+      "party_id": 1,
+      "party_size": 4,
+      "performance_others": null,
+      "permanent_buffs": [
+        {
+          "permanent_buff": 3,
+          "stack_count": 0
+        }
+      ],
+      "pings": 2,
+      "pred_vict": false,
+      "purchase": {
+        "null_talisman": 1,
+        "tango": 1,
+        "branches": 2,
+        "boots": 1,
+        "circlet": 1,
+        "magic_stick": 1,
+        "magic_wand": 1,
+        "gloves": 1,
+        "tpscroll": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "null_talisman"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -81,
+          "key": "branches"
+        },
+        {
+          "time": -81,
+          "key": "branches"
+        },
+        {
+          "time": 114,
+          "key": "boots"
+        },
+        {
+          "time": 192,
+          "key": "circlet"
+        },
+        {
+          "time": 192,
+          "key": "magic_stick"
+        },
+        {
+          "time": 217,
+          "key": "magic_wand"
+        },
+        {
+          "time": 363,
+          "key": "gloves"
+        },
+        {
+          "time": 365,
+          "key": "tpscroll"
+        }
+      ],
+      "randomed": true,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 4,
+      "runes": {
+        "0": 1,
+        "5": 3
+      },
+      "runes_log": [
+        {
+          "time": 0,
+          "key": 5
+        },
+        {
+          "time": 130,
+          "key": 0
+        },
+        {
+          "time": 252,
+          "key": 5
+        },
+        {
+          "time": 392,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 0,
+      "teamfight_participation": 0,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 117,
+      "towers_killed": 0,
+      "xp_per_min": 191,
+      "xp_reasons": {
+        "0": 154,
+        "2": 1751
+      },
+      "xp_t": [
+        0,
+        239,
+        625,
+        1085,
+        1481,
+        1592,
+        1592,
+        1674,
+        1904,
+        1904,
+        1904,
+        1904,
+        1904
+      ],
+      "team_number": 1,
+      "team_slot": 0,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": false,
+      "win": 0,
+      "lose": 1,
+      "total_gold": 2072,
+      "total_xp": 1894,
+      "kda": 0,
+      "abandons": 0,
+      "neutral_kills": 0,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 18,
+      "hero_kills": 0,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 0,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.41976556184316893,
+      "lane_efficiency_pct": 41,
+      "lane": 2,
+      "lane_role": 2,
+      "is_roaming": false,
+      "purchase_time": {
+        "null_talisman": -89,
+        "tango": -89,
+        "branches": -162,
+        "boots": 114,
+        "circlet": 192,
+        "magic_stick": 192,
+        "magic_wand": 217,
+        "gloves": 363,
+        "tpscroll": 365
+      },
+      "first_purchase_time": {
+        "null_talisman": -89,
+        "tango": -89,
+        "branches": -81,
+        "boots": 114,
+        "circlet": 192,
+        "magic_stick": 192,
+        "magic_wand": 217,
+        "gloves": 363,
+        "tpscroll": 365
+      },
+      "item_win": {
+        "null_talisman": 0,
+        "tango": 0,
+        "branches": 0,
+        "boots": 0,
+        "circlet": 0,
+        "magic_stick": 0,
+        "magic_wand": 0,
+        "gloves": 0,
+        "tpscroll": 0
+      },
+      "item_usage": {
+        "null_talisman": 1,
+        "tango": 1,
+        "branches": 1,
+        "boots": 1,
+        "circlet": 1,
+        "magic_stick": 1,
+        "magic_wand": 1,
+        "gloves": 1,
+        "tpscroll": 1
+      },
+      "purchase_tpscroll": 1,
+      "actions_per_min": 121,
+      "life_state_dead": 0,
+      "cosmetics": [],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 209,
+          "pct": 0.027972027972027972
+        },
+        "xp_per_min": {
+          "raw": 191,
+          "pct": 0.009461127108185932
+        },
+        "kills_per_min": {
+          "raw": 0,
+          "pct": 0.027560674619498148
+        },
+        "last_hits_per_min": {
+          "raw": 1.815126050420168,
+          "pct": 0.4339777869189634
+        },
+        "hero_damage_per_min": {
+          "raw": 122.62184873949579,
+          "pct": 0.006993006993006993
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.7285067873303167
+        },
+        "tower_damage": {
+          "raw": 117,
+          "pct": 0.2772521596051008
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 129,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5431,
+        5430,
+        5433,
+        5431,
+        5432,
+        5431
+      ],
+      "ability_uses": {
+        "meepo_poof": 7,
+        "meepo_earthbind": 7
+      },
+      "account_id": null,
+      "actions": {
+        "1": 1318,
+        "2": 32,
+        "3": 10,
+        "4": 160,
+        "5": 12,
+        "6": 4,
+        "7": 4,
+        "8": 1,
+        "9": 1,
+        "10": 38,
+        "11": 7,
+        "15": 3,
+        "16": 19,
+        "17": 2,
+        "19": 4,
+        "33": 38
+      },
+      "additional_units": [
+        {
+          "unitname": "",
+          "item_0": 212,
+          "item_1": 16,
+          "item_2": 16,
+          "item_3": 71,
+          "item_4": 46,
+          "item_5": 25,
+          "backpack_0": 29,
+          "backpack_1": 0,
+          "backpack_2": 0,
+          "item_neutral": 0,
+          "item_neutral2": 0
+        }
+      ],
+      "assists": 1,
+      "backpack_0": 29,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_creep_badguys_melee": 399,
+        "npc_dota_creep_goodguys_melee": 4247,
+        "npc_dota_creep_badguys_ranged": 159,
+        "npc_dota_hero_leshrac": 999,
+        "npc_dota_creep_goodguys_ranged": 1126,
+        "npc_dota_goodguys_siege": 602,
+        "npc_dota_neutral_forest_troll_high_priest": 548,
+        "npc_dota_neutral_forest_troll_berserker": 1036,
+        "npc_dota_hero_shadow_shaman": 72,
+        "npc_dota_hero_meepo": 273
+      },
+      "damage_inflictor": {
+        "meepo_poof": 396,
+        "null": 661,
+        "meepo_geostrike": 14
+      },
+      "damage_inflictor_received": {
+        "null": 805,
+        "leshrac_diabolic_edict": 508,
+        "chen_test_of_faith": 68,
+        "leshrac_split_earth": 480,
+        "shadow_shaman_ether_shock": 856
+      },
+      "damage_taken": {
+        "npc_dota_hero_leshrac": 1447,
+        "npc_dota_hero_chen": 591,
+        "npc_dota_creep_goodguys_melee": 501,
+        "npc_dota_creep_goodguys_ranged": 280,
+        "npc_dota_goodguys_siege": 30,
+        "npc_dota_neutral_forest_troll_berserker": 103,
+        "npc_dota_neutral_forest_troll_high_priest": 19,
+        "npc_dota_hero_shadow_shaman": 1089,
+        "npc_dota_hero_meepo": 273
+      },
+      "damage_targets": null,
+      "deaths": 1,
+      "denies": 10,
+      "dn_t": [
+        0,
+        3,
+        5,
+        7,
+        9,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "firstblood_claimed": 0,
+      "gold": 0,
+      "gold_per_min": 348,
+      "gold_reasons": {
+        "0": 789,
+        "1": -122,
+        "5": 1002,
+        "12": 336,
+        "13": 1041
+      },
+      "gold_spent": 3320,
+      "gold_t": [
+        0,
+        263,
+        354,
+        668,
+        1057,
+        1252,
+        1422,
+        1549,
+        2045,
+        2359,
+        3456,
+        3456,
+        3456
+      ],
+      "hero_damage": 1071,
+      "hero_healing": 0,
+      "hero_hits": {
+        "meepo_poof": 6,
+        "null": 14,
+        "meepo_geostrike": 2,
+        "meepo_divided_we_stand": 1
+      },
+      "hero_id": 82,
+      "item_0": 212,
+      "item_1": 16,
+      "item_2": 16,
+      "item_3": 71,
+      "item_4": 46,
+      "item_5": 25,
+      "item_neutral": 0,
+      "item_uses": {
+        "tango": 4,
+        "tpscroll": 1,
+        "ring_of_aquila": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_creep_badguys_melee": 7,
+        "npc_dota_creep_goodguys_melee": 18,
+        "npc_dota_creep_badguys_ranged": 3,
+        "npc_dota_creep_goodguys_ranged": 6,
+        "npc_dota_hero_leshrac": 1,
+        "npc_dota_goodguys_siege": 1,
+        "npc_dota_neutral_forest_troll_high_priest": 1,
+        "npc_dota_neutral_forest_troll_berserker": 2
+      },
+      "killed_by": {
+        "npc_dota_hero_shadow_shaman": 1
+      },
+      "kills": 1,
+      "kills_log": [
+        {
+          "time": 200,
+          "key": "npc_dota_hero_leshrac"
+        }
+      ],
+      "lane_pos": {
+        "70": {
+          "162": 2
+        },
+        "72": {
+          "160": 1,
+          "162": 6,
+          "164": 1,
+          "166": 1,
+          "168": 4
+        },
+        "74": {
+          "158": 1,
+          "160": 6,
+          "164": 5
+        },
+        "76": {
+          "148": 1,
+          "150": 2,
+          "152": 11,
+          "154": 5,
+          "156": 16,
+          "158": 17,
+          "160": 13,
+          "162": 7,
+          "164": 8,
+          "166": 1
+        },
+        "78": {
+          "152": 5,
+          "154": 16,
+          "156": 20,
+          "158": 19,
+          "160": 11,
+          "162": 15,
+          "164": 16,
+          "166": 9,
+          "168": 1
+        },
+        "80": {
+          "154": 4,
+          "156": 4,
+          "158": 5,
+          "160": 1,
+          "164": 10,
+          "166": 6,
+          "168": 7,
+          "170": 4,
+          "172": 6
+        },
+        "82": {
+          "156": 1,
+          "164": 2,
+          "166": 3,
+          "168": 5,
+          "170": 15,
+          "172": 3
+        },
+        "84": {
+          "158": 1,
+          "164": 5,
+          "168": 2,
+          "170": 6,
+          "172": 4
+        },
+        "86": {
+          "160": 1,
+          "162": 1,
+          "164": 2,
+          "170": 9,
+          "172": 6,
+          "174": 1,
+          "176": 1
+        },
+        "88": {
+          "164": 1,
+          "170": 5,
+          "172": 2,
+          "174": 2,
+          "176": 2
+        },
+        "90": {
+          "164": 4,
+          "170": 2,
+          "172": 21,
+          "174": 2,
+          "176": 2
+        },
+        "92": {
+          "162": 2,
+          "164": 1,
+          "170": 2,
+          "172": 15,
+          "174": 5,
+          "176": 3
+        },
+        "94": {
+          "160": 1,
+          "162": 1,
+          "164": 2,
+          "170": 2,
+          "172": 3,
+          "174": 5,
+          "176": 2
+        },
+        "96": {
+          "166": 1,
+          "172": 2,
+          "174": 5
+        },
+        "98": {
+          "164": 1,
+          "166": 1,
+          "172": 2,
+          "174": 5
+        },
+        "100": {
+          "166": 1,
+          "170": 1,
+          "172": 1,
+          "174": 2
+        },
+        "102": {
+          "160": 4,
+          "166": 1,
+          "168": 27,
+          "172": 1,
+          "174": 4
+        },
+        "104": {
+          "158": 2,
+          "160": 6,
+          "166": 8,
+          "168": 3,
+          "172": 3
+        },
+        "106": {
+          "160": 18,
+          "172": 3,
+          "174": 2
+        },
+        "108": {
+          "160": 1,
+          "162": 2,
+          "172": 1
+        },
+        "110": {
+          "164": 2,
+          "166": 4,
+          "172": 2
+        },
+        "112": {
+          "164": 1,
+          "170": 1,
+          "172": 3
+        },
+        "114": {
+          "164": 2,
+          "166": 1,
+          "168": 1,
+          "172": 3
+        },
+        "116": {
+          "164": 1,
+          "166": 1,
+          "172": 1
+        },
+        "118": {
+          "164": 1,
+          "172": 1
+        },
+        "120": {
+          "164": 1,
+          "172": 1
+        },
+        "124": {
+          "164": 1,
+          "172": 1
+        },
+        "126": {
+          "164": 1,
+          "172": 1
+        },
+        "128": {
+          "164": 1
+        },
+        "130": {
+          "166": 1,
+          "172": 1
+        },
+        "132": {
+          "168": 1,
+          "172": 1
+        },
+        "134": {
+          "170": 1,
+          "174": 1
+        },
+        "136": {
+          "170": 1
+        },
+        "138": {
+          "172": 1,
+          "174": 1
+        },
+        "140": {
+          "172": 1,
+          "174": 1
+        },
+        "142": {
+          "172": 1
+        },
+        "144": {
+          "174": 2
+        },
+        "146": {
+          "174": 1
+        },
+        "148": {
+          "174": 2
+        },
+        "150": {
+          "174": 1
+        },
+        "152": {
+          "174": 2
+        },
+        "154": {
+          "174": 2
+        },
+        "156": {
+          "172": 2
+        },
+        "158": {
+          "172": 1
+        },
+        "160": {
+          "172": 1
+        },
+        "162": {
+          "174": 2
+        },
+        "164": {
+          "174": 1
+        },
+        "166": {
+          "174": 2
+        },
+        "168": {
+          "174": 2
+        },
+        "170": {
+          "174": 1
+        },
+        "172": {
+          "174": 1
+        },
+        "174": {
+          "174": 2
+        },
+        "176": {
+          "174": 2
+        },
+        "178": {
+          "176": 1
+        },
+        "180": {
+          "176": 8
+        },
+        "182": {
+          "176": 59,
+          "178": 5,
+          "180": 5
+        },
+        "184": {
+          "178": 11
+        }
+      },
+      "last_hits": 28,
+      "leaver_status": 1,
+      "level": 6,
+      "lh_t": [
+        0,
+        2,
+        2,
+        8,
+        11,
+        14,
+        16,
+        17,
+        25,
+        28,
+        28,
+        28,
+        28
+      ],
+      "life_state": {
+        "0": 716,
+        "1": 2,
+        "2": 23
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 314,
+        "max": true,
+        "inflictor": "meepo_poof",
+        "unit": "npc_dota_hero_meepo",
+        "key": "npc_dota_hero_leshrac",
+        "value": 76,
+        "slot": 6,
+        "player_slot": 129
+      },
+      "multi_kills": {},
+      "net_worth": 2535,
+      "obs": {},
+      "obs_left_log": [],
+      "obs_log": [],
+      "obs_placed": 0,
+      "party_id": 1,
+      "party_size": 4,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pred_vict": false,
+      "purchase": {
+        "slippers": 3,
+        "poor_mans_shield": 1,
+        "stout_shield": 1,
+        "tango": 1,
+        "branches": 2,
+        "boots": 1,
+        "tpscroll": 2,
+        "circlet": 1,
+        "wraith_band": 1,
+        "recipe_wraith_band": 1,
+        "ring_of_protection": 1,
+        "ring_of_basilius": 1,
+        "ring_of_aquila": 1,
+        "sobi_mask": 1,
+        "gloves": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -74,
+          "key": "slippers"
+        },
+        {
+          "time": -74,
+          "key": "slippers"
+        },
+        {
+          "time": -74,
+          "key": "poor_mans_shield"
+        },
+        {
+          "time": -74,
+          "key": "stout_shield"
+        },
+        {
+          "time": -72,
+          "key": "tango"
+        },
+        {
+          "time": -71,
+          "key": "branches"
+        },
+        {
+          "time": -71,
+          "key": "branches"
+        },
+        {
+          "time": 182,
+          "key": "boots"
+        },
+        {
+          "time": 233,
+          "key": "tpscroll"
+        },
+        {
+          "time": 246,
+          "key": "circlet"
+        },
+        {
+          "time": 246,
+          "key": "slippers"
+        },
+        {
+          "time": 246,
+          "key": "wraith_band"
+        },
+        {
+          "time": 281,
+          "key": "ring_of_protection"
+        },
+        {
+          "time": 380,
+          "key": "ring_of_basilius"
+        },
+        {
+          "time": 380,
+          "key": "ring_of_aquila"
+        },
+        {
+          "time": 380,
+          "key": "sobi_mask"
+        },
+        {
+          "time": 571,
+          "key": "gloves"
+        },
+        {
+          "time": 575,
+          "key": "tpscroll"
+        }
+      ],
+      "randomed": true,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 2,
+      "runes": {
+        "5": 2
+      },
+      "runes_log": [
+        {
+          "time": 0,
+          "key": 5
+        },
+        {
+          "time": 430,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 11.663818,
+      "teamfight_participation": 0.5,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 0,
+      "towers_killed": 0,
+      "xp_per_min": 286,
+      "xp_reasons": {
+        "0": 996,
+        "1": 194,
+        "2": 1654
+      },
+      "xp_t": [
+        0,
+        78,
+        373,
+        762,
+        1218,
+        1440,
+        1860,
+        1900,
+        2481,
+        2843,
+        2843,
+        2843,
+        2843
+      ],
+      "team_number": 1,
+      "team_slot": 1,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": false,
+      "win": 0,
+      "lose": 1,
+      "total_gold": 3451,
+      "total_xp": 2836,
+      "kills_per_min": 0.10084033613445378,
+      "kda": 1,
+      "abandons": 0,
+      "neutral_kills": 3,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 34,
+      "hero_kills": 1,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 0,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.698464025869038,
+      "lane_efficiency_pct": 69,
+      "lane": 3,
+      "lane_role": 1,
+      "is_roaming": false,
+      "purchase_time": {
+        "slippers": 98,
+        "poor_mans_shield": -74,
+        "stout_shield": -74,
+        "tango": -72,
+        "branches": -142,
+        "boots": 182,
+        "tpscroll": 808,
+        "circlet": 246,
+        "wraith_band": 246,
+        "ring_of_protection": 281,
+        "ring_of_basilius": 380,
+        "ring_of_aquila": 380,
+        "sobi_mask": 380,
+        "gloves": 571
+      },
+      "first_purchase_time": {
+        "slippers": -74,
+        "poor_mans_shield": -74,
+        "stout_shield": -74,
+        "tango": -72,
+        "branches": -71,
+        "boots": 182,
+        "tpscroll": 233,
+        "circlet": 246,
+        "wraith_band": 246,
+        "ring_of_protection": 281,
+        "ring_of_basilius": 380,
+        "ring_of_aquila": 380,
+        "sobi_mask": 380,
+        "gloves": 571
+      },
+      "item_win": {
+        "slippers": 0,
+        "poor_mans_shield": 0,
+        "stout_shield": 0,
+        "tango": 0,
+        "branches": 0,
+        "boots": 0,
+        "tpscroll": 0,
+        "circlet": 0,
+        "wraith_band": 0,
+        "ring_of_protection": 0,
+        "ring_of_basilius": 0,
+        "ring_of_aquila": 0,
+        "sobi_mask": 0,
+        "gloves": 0
+      },
+      "item_usage": {
+        "slippers": 1,
+        "poor_mans_shield": 1,
+        "stout_shield": 1,
+        "tango": 1,
+        "branches": 1,
+        "boots": 1,
+        "tpscroll": 1,
+        "circlet": 1,
+        "wraith_band": 1,
+        "ring_of_protection": 1,
+        "ring_of_basilius": 1,
+        "ring_of_aquila": 1,
+        "sobi_mask": 1,
+        "gloves": 1
+      },
+      "purchase_tpscroll": 2,
+      "actions_per_min": 166,
+      "life_state_dead": 25,
+      "cosmetics": [],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 348,
+          "pct": 0.14187643020594964
+        },
+        "xp_per_min": {
+          "raw": 286,
+          "pct": 0.059496567505720827
+        },
+        "kills_per_min": {
+          "raw": 0.10084033613445378,
+          "pct": 0.2425629290617849
+        },
+        "last_hits_per_min": {
+          "raw": 2.8235294117647056,
+          "pct": 0.09610983981693363
+        },
+        "hero_damage_per_min": {
+          "raw": 108,
+          "pct": 0.041189931350114416
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.9816933638443935
+        },
+        "tower_damage": {
+          "raw": 0,
+          "pct": 0.16933638443935928
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 130,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5044,
+        5046,
+        5045,
+        5044,
+        5044,
+        5047
+      ],
+      "ability_uses": {
+        "lion_impale": 8,
+        "lion_mana_drain": 2,
+        "lion_voodoo": 2
+      },
+      "account_id": null,
+      "actions": {
+        "1": 774,
+        "2": 27,
+        "4": 182,
+        "5": 3,
+        "6": 16,
+        "7": 4,
+        "11": 6,
+        "15": 7,
+        "16": 10,
+        "19": 2
+      },
+      "additional_units": null,
+      "assists": 2,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_hero_leshrac": 747,
+        "npc_dota_hero_chen": 441,
+        "npc_dota_creep_goodguys_ranged": 1131,
+        "npc_dota_creep_goodguys_melee": 2854,
+        "illusion_npc_dota_hero_shadow_shaman": 366,
+        "npc_dota_hero_shadow_shaman": 268,
+        "npc_dota_shadow_shaman_ward_1": 1,
+        "npc_dota_goodguys_siege": 29
+      },
+      "damage_inflictor": {
+        "null": 955,
+        "lion_impale": 501
+      },
+      "damage_inflictor_received": {
+        "null": 1206,
+        "leshrac_diabolic_edict": 84,
+        "shadow_shaman_ether_shock": 446
+      },
+      "damage_taken": {
+        "npc_dota_creep_goodguys_ranged": 109,
+        "npc_dota_creep_goodguys_melee": 301,
+        "npc_dota_hero_leshrac": 130,
+        "npc_dota_hero_chen": 430,
+        "npc_dota_hero_shadow_shaman": 1750,
+        "npc_dota_goodguys_siege": 31
+      },
+      "damage_targets": null,
+      "deaths": 3,
+      "denies": 0,
+      "dn_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "firstblood_claimed": 0,
+      "gold": 0,
+      "gold_per_min": 221,
+      "gold_reasons": {
+        "0": 772,
+        "1": -253,
+        "5": 517,
+        "12": 301,
+        "13": 323
+      },
+      "gold_spent": 1590,
+      "gold_t": [
+        0,
+        90,
+        181,
+        326,
+        504,
+        688,
+        849,
+        1193,
+        1284,
+        1589,
+        2195,
+        2195,
+        2195
+      ],
+      "hero_damage": 1456,
+      "hero_healing": 0,
+      "hero_hits": {
+        "null": 21,
+        "lion_impale": 6
+      },
+      "hero_id": 26,
+      "item_0": 214,
+      "item_1": 0,
+      "item_2": 39,
+      "item_3": 0,
+      "item_4": 0,
+      "item_5": 42,
+      "item_neutral": 0,
+      "item_uses": {
+        "ward_observer": 2,
+        "tango": 4,
+        "tpscroll": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_creep_goodguys_melee": 7,
+        "npc_dota_shadow_shaman_ward_1": 1,
+        "npc_dota_goodguys_siege": 1
+      },
+      "killed_by": {
+        "npc_dota_hero_shadow_shaman": 2,
+        "npc_dota_hero_chen": 1
+      },
+      "kills": 0,
+      "kills_log": [],
+      "lane_pos": {
+        "72": {
+          "162": 1,
+          "164": 2,
+          "166": 1
+        },
+        "74": {
+          "160": 5,
+          "164": 1,
+          "168": 1,
+          "170": 1,
+          "180": 5
+        },
+        "76": {
+          "160": 1,
+          "172": 1,
+          "180": 8,
+          "182": 1
+        },
+        "78": {
+          "156": 1,
+          "158": 4,
+          "162": 2,
+          "164": 1,
+          "172": 2,
+          "174": 1,
+          "182": 2
+        },
+        "80": {
+          "156": 2,
+          "158": 6,
+          "160": 12,
+          "162": 5,
+          "164": 4,
+          "166": 1,
+          "168": 1,
+          "170": 1,
+          "174": 1,
+          "184": 3
+        },
+        "82": {
+          "154": 2,
+          "156": 1,
+          "158": 3,
+          "160": 12,
+          "162": 1,
+          "164": 2,
+          "166": 7,
+          "168": 5,
+          "170": 2,
+          "172": 10,
+          "176": 1,
+          "184": 2
+        },
+        "84": {
+          "156": 3,
+          "158": 3,
+          "160": 15,
+          "162": 2,
+          "164": 6,
+          "168": 8,
+          "170": 2,
+          "172": 11,
+          "174": 2,
+          "184": 2
+        },
+        "86": {
+          "156": 1,
+          "160": 3,
+          "162": 3,
+          "164": 3,
+          "170": 2,
+          "172": 4,
+          "174": 4,
+          "176": 2,
+          "186": 1
+        },
+        "88": {
+          "156": 1,
+          "162": 1,
+          "164": 9,
+          "172": 2,
+          "176": 6,
+          "186": 2
+        },
+        "90": {
+          "156": 1,
+          "164": 8,
+          "172": 2,
+          "176": 4,
+          "184": 1
+        },
+        "92": {
+          "156": 1,
+          "160": 1,
+          "162": 4,
+          "164": 6,
+          "166": 1,
+          "172": 4,
+          "174": 1,
+          "176": 4,
+          "182": 1,
+          "184": 2
+        },
+        "94": {
+          "156": 1,
+          "160": 1,
+          "162": 5,
+          "164": 1,
+          "166": 1,
+          "172": 2,
+          "174": 1,
+          "176": 2,
+          "178": 2,
+          "180": 2
+        },
+        "96": {
+          "160": 2,
+          "162": 1,
+          "164": 2,
+          "166": 2,
+          "172": 2,
+          "174": 1,
+          "178": 1
+        },
+        "98": {
+          "156": 1,
+          "158": 1,
+          "164": 1,
+          "170": 2,
+          "178": 1
+        },
+        "100": {
+          "156": 2,
+          "162": 1,
+          "164": 3,
+          "166": 2,
+          "168": 2
+        },
+        "102": {
+          "140": 1,
+          "142": 1,
+          "144": 2,
+          "156": 1,
+          "158": 2,
+          "160": 2,
+          "162": 4,
+          "164": 1,
+          "178": 1
+        },
+        "104": {
+          "136": 1,
+          "138": 2,
+          "140": 1,
+          "146": 2,
+          "148": 2,
+          "150": 1,
+          "152": 1,
+          "154": 1,
+          "158": 2,
+          "160": 14,
+          "178": 1
+        },
+        "106": {
+          "150": 1,
+          "154": 1,
+          "156": 1,
+          "158": 9,
+          "160": 10
+        },
+        "108": {
+          "150": 1,
+          "152": 3,
+          "154": 2,
+          "158": 1,
+          "162": 1,
+          "178": 1
+        },
+        "110": {
+          "150": 1,
+          "154": 1,
+          "162": 2,
+          "176": 1
+        },
+        "112": {
+          "154": 1,
+          "162": 1,
+          "164": 1,
+          "176": 29
+        },
+        "114": {
+          "164": 1
+        },
+        "116": {
+          "154": 1,
+          "162": 1
+        },
+        "118": {
+          "154": 1,
+          "162": 1,
+          "164": 1
+        },
+        "120": {
+          "152": 1,
+          "154": 1,
+          "160": 1,
+          "164": 1
+        },
+        "122": {
+          "126": 1,
+          "150": 1,
+          "160": 1
+        },
+        "124": {
+          "128": 2,
+          "130": 1,
+          "132": 16,
+          "148": 1,
+          "160": 1,
+          "164": 1
+        },
+        "126": {
+          "130": 1,
+          "148": 1,
+          "160": 1,
+          "162": 1
+        },
+        "128": {
+          "130": 1,
+          "148": 1,
+          "160": 1
+        },
+        "130": {
+          "128": 1,
+          "146": 2,
+          "162": 1
+        },
+        "132": {
+          "128": 2,
+          "130": 6,
+          "132": 6,
+          "144": 1,
+          "160": 2
+        },
+        "134": {
+          "128": 1,
+          "130": 13,
+          "132": 11,
+          "134": 1,
+          "160": 2
+        },
+        "136": {
+          "130": 2,
+          "132": 12,
+          "134": 3,
+          "136": 2,
+          "144": 1,
+          "158": 1
+        },
+        "138": {
+          "132": 5,
+          "134": 20,
+          "138": 1,
+          "140": 1,
+          "142": 1,
+          "158": 2
+        },
+        "140": {
+          "132": 2,
+          "134": 1,
+          "136": 2,
+          "138": 18,
+          "158": 2
+        },
+        "142": {
+          "136": 1,
+          "156": 1
+        },
+        "144": {
+          "154": 1,
+          "158": 1
+        },
+        "146": {
+          "152": 1,
+          "156": 1
+        },
+        "148": {
+          "152": 1,
+          "156": 1
+        },
+        "150": {
+          "156": 1
+        },
+        "152": {
+          "152": 1,
+          "154": 1
+        },
+        "154": {
+          "152": 1,
+          "154": 1
+        },
+        "158": {
+          "152": 1,
+          "156": 1
+        },
+        "160": {
+          "154": 1,
+          "158": 1
+        },
+        "162": {
+          "154": 1,
+          "158": 1
+        },
+        "164": {
+          "158": 1
+        },
+        "166": {
+          "156": 1,
+          "160": 1
+        },
+        "168": {
+          "158": 1,
+          "160": 1
+        },
+        "170": {
+          "160": 1,
+          "162": 1,
+          "174": 4
+        },
+        "172": {
+          "162": 2
+        },
+        "174": {
+          "164": 2,
+          "168": 1,
+          "174": 1
+        },
+        "176": {
+          "166": 1,
+          "168": 1,
+          "170": 1,
+          "174": 1
+        },
+        "178": {
+          "170": 1,
+          "172": 2,
+          "174": 1,
+          "176": 4
+        },
+        "180": {
+          "174": 2,
+          "176": 1,
+          "178": 6
+        },
+        "182": {
+          "176": 38,
+          "178": 3
+        },
+        "184": {
+          "174": 5
+        }
+      },
+      "last_hits": 9,
+      "leaver_status": 1,
+      "level": 6,
+      "lh_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "life_state": {
+        "0": 688,
+        "1": 3,
+        "2": 50
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 499,
+        "max": true,
+        "inflictor": "lion_impale",
+        "unit": "npc_dota_hero_lion",
+        "key": "npc_dota_hero_leshrac",
+        "value": 153,
+        "slot": 7,
+        "player_slot": 130
+      },
+      "multi_kills": {},
+      "net_worth": 1145,
+      "obs": {
+        "84": {
+          "156": 1
+        },
+        "104": {
+          "134": 1
+        }
+      },
+      "obs_left_log": [
+        {
+          "time": 375,
+          "type": "obs_left_log",
+          "key": "[104, 134]",
+          "slot": 7,
+          "x": 104,
+          "y": 134,
+          "z": 132,
+          "entityleft": true,
+          "ehandle": 1655257,
+          "player_slot": 130
+        },
+        {
+          "time": 551,
+          "type": "obs_left_log",
+          "key": "[84, 156]",
+          "slot": 7,
+          "x": 84,
+          "y": 156,
+          "z": 130,
+          "entityleft": true,
+          "ehandle": 2917635,
+          "player_slot": 130
+        }
+      ],
+      "obs_log": [
+        {
+          "time": 9,
+          "type": "obs_log",
+          "key": "[104, 134]",
+          "slot": 7,
+          "x": 104,
+          "y": 134,
+          "z": 132,
+          "entityleft": false,
+          "ehandle": 1655257,
+          "player_slot": 130
+        },
+        {
+          "time": 185,
+          "type": "obs_log",
+          "key": "[84, 156]",
+          "slot": 7,
+          "x": 84,
+          "y": 156,
+          "z": 130,
+          "entityleft": false,
+          "ehandle": 2917635,
+          "player_slot": 130
+        }
+      ],
+      "obs_placed": 2,
+      "party_id": 1,
+      "party_size": 4,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pred_vict": false,
+      "purchase": {
+        "ward_observer": 2,
+        "tango": 1,
+        "flask": 1,
+        "wind_lace": 1,
+        "flying_courier": 1,
+        "tpscroll": 1,
+        "boots": 1,
+        "ring_of_regen": 1,
+        "tranquil_boots": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "ward_observer"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "flask"
+        },
+        {
+          "time": -53,
+          "key": "wind_lace"
+        },
+        {
+          "time": 206,
+          "key": "flying_courier"
+        },
+        {
+          "time": 341,
+          "key": "tpscroll"
+        },
+        {
+          "time": 345,
+          "key": "boots"
+        },
+        {
+          "time": 407,
+          "key": "ring_of_regen"
+        },
+        {
+          "time": 409,
+          "key": "ward_observer"
+        },
+        {
+          "time": 411,
+          "key": "tranquil_boots"
+        }
+      ],
+      "randomed": false,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 2,
+      "runes": {
+        "5": 2
+      },
+      "runes_log": [
+        {
+          "time": 136,
+          "key": 5
+        },
+        {
+          "time": 242,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 15.762945,
+      "teamfight_participation": 0.5,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 0,
+      "towers_killed": 0,
+      "xp_per_min": 248,
+      "xp_reasons": {
+        "0": 162,
+        "1": 194,
+        "2": 2114
+      },
+      "xp_t": [
+        0,
+        78,
+        186,
+        486,
+        649,
+        1009,
+        1259,
+        1968,
+        2086,
+        2430,
+        2470,
+        2470,
+        2470
+      ],
+      "team_number": 1,
+      "team_slot": 2,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": false,
+      "win": 0,
+      "lose": 1,
+      "total_gold": 2191,
+      "total_xp": 2459,
+      "kda": 0.5,
+      "abandons": 0,
+      "neutral_kills": 0,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 7,
+      "hero_kills": 0,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 2,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.44361358124494743,
+      "lane_efficiency_pct": 44,
+      "lane": 3,
+      "lane_role": 1,
+      "is_roaming": false,
+      "purchase_time": {
+        "ward_observer": 320,
+        "tango": -89,
+        "flask": -89,
+        "wind_lace": -53,
+        "flying_courier": 206,
+        "tpscroll": 341,
+        "boots": 345,
+        "ring_of_regen": 407,
+        "tranquil_boots": 411
+      },
+      "first_purchase_time": {
+        "ward_observer": -89,
+        "tango": -89,
+        "flask": -89,
+        "wind_lace": -53,
+        "flying_courier": 206,
+        "tpscroll": 341,
+        "boots": 345,
+        "ring_of_regen": 407,
+        "tranquil_boots": 411
+      },
+      "item_win": {
+        "ward_observer": 0,
+        "tango": 0,
+        "flask": 0,
+        "wind_lace": 0,
+        "flying_courier": 0,
+        "tpscroll": 0,
+        "boots": 0,
+        "ring_of_regen": 0,
+        "tranquil_boots": 0
+      },
+      "item_usage": {
+        "ward_observer": 1,
+        "tango": 1,
+        "flask": 1,
+        "wind_lace": 1,
+        "flying_courier": 1,
+        "tpscroll": 1,
+        "boots": 1,
+        "ring_of_regen": 1,
+        "tranquil_boots": 1
+      },
+      "purchase_ward_observer": 2,
+      "purchase_tpscroll": 1,
+      "actions_per_min": 103,
+      "life_state_dead": 53,
+      "cosmetics": [
+        {
+          "item_id": 5462,
+          "name": "Strifemaul of Hell's Ambassador",
+          "prefab": "wearable",
+          "creation_date": "2013-09-26T00:00:00.000Z",
+          "image_inventory": "econ/items/lion/hell_weapon/hell_weapon",
+          "image_path": "icons/econ/items/lion/hell_weapon/hell_weapon.1157d62099fe78b94f07d409cdd8426d1057b835.png",
+          "item_description": "#DOTA_Item_Desc_Strifemaul_of_Hells_Ambassador",
+          "item_name": "#DOTA_Item_Strifemaul_of_Hells_Ambassador",
+          "item_rarity": "uncommon",
+          "item_type_name": null,
+          "used_by_heroes": "npc_dota_hero_lion"
+        },
+        {
+          "item_id": 7067,
+          "name": "Infernal Wings Claw",
+          "prefab": "wearable",
+          "creation_date": "2014-09-26T00:00:00.000Z",
+          "image_inventory": "econ/items/lion/hells_bat_arm/hells_bat_arm",
+          "image_path": "icons/econ/items/lion/hells_bat_arm/hells_bat_arm.8db59184c9ed691f4a1e92aae553e90e9195fde2.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Infernal_Wings_Claw",
+          "item_rarity": "uncommon",
+          "item_type_name": "#DOTA_WearableType_Arm",
+          "used_by_heroes": "npc_dota_hero_lion"
+        },
+        {
+          "item_id": 7068,
+          "name": "Infernal Wings",
+          "prefab": "wearable",
+          "creation_date": "2014-09-26T00:00:00.000Z",
+          "image_inventory": "econ/items/lion/hells_bat_wings/hells_bat_wings",
+          "image_path": "icons/econ/items/lion/hells_bat_wings/hells_bat_wings.e557337ac068cb578b6d7efa8213f0a084fa7db5.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Infernal_Wings",
+          "item_rarity": "rare",
+          "item_type_name": "#DOTA_WearableType_Wings",
+          "used_by_heroes": "npc_dota_hero_lion"
+        },
+        {
+          "item_id": 7073,
+          "name": "Infernal Wings Jaw",
+          "prefab": "wearable",
+          "creation_date": "2014-09-26T00:00:00.000Z",
+          "image_inventory": "econ/items/lion/hells_bat_head/hells_bat_head",
+          "image_path": "icons/econ/items/lion/hells_bat_head/hells_bat_head.22cfe90649b114a63a0cbd34e3c0d2f0e3e5186c.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Infernal_Wings_Jaw",
+          "item_rarity": "uncommon",
+          "item_type_name": "#DOTA_WearableType_Jawbone",
+          "used_by_heroes": "npc_dota_hero_lion"
+        },
+        {
+          "item_id": 7074,
+          "name": "Infernal Wings Flare",
+          "prefab": "wearable",
+          "creation_date": "2014-09-26T00:00:00.000Z",
+          "image_inventory": "econ/items/lion/hells_bat_shoulders/hells_bat_shoulders",
+          "image_path": "icons/econ/items/lion/hells_bat_shoulders/hells_bat_shoulders.e89f401365a4ed2f51b3a662960ef2155fc76462.png",
+          "item_description": null,
+          "item_name": "#DOTA_Item_Infernal_Wings_Flare",
+          "item_rarity": null,
+          "item_type_name": "#DOTA_WearableType_Neckpiece",
+          "used_by_heroes": "npc_dota_hero_lion"
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 221,
+          "pct": 0.05432098765432099
+        },
+        "xp_per_min": {
+          "raw": 248,
+          "pct": 0.02175925925925926
+        },
+        "kills_per_min": {
+          "raw": 0,
+          "pct": 0.020833333333333332
+        },
+        "last_hits_per_min": {
+          "raw": 0.907563025210084,
+          "pct": 0.295679012345679
+        },
+        "hero_damage_per_min": {
+          "raw": 146.82352941176472,
+          "pct": 0.019290123456790122
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.7592592592592593
+        },
+        "tower_damage": {
+          "raw": 0,
+          "pct": 0.2302469135802469
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 131,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5023,
+        5024,
+        5025,
+        5023,
+        5023,
+        5026
+      ],
+      "ability_uses": {
+        "earthshaker_fissure": 8,
+        "earthshaker_enchant_totem": 9
+      },
+      "account_id": null,
+      "actions": {
+        "1": 1526,
+        "2": 58,
+        "3": 43,
+        "4": 110,
+        "5": 13,
+        "6": 2,
+        "7": 4,
+        "8": 15,
+        "10": 65,
+        "11": 6,
+        "15": 1,
+        "16": 9,
+        "17": 1,
+        "19": 3,
+        "33": 65
+      },
+      "additional_units": null,
+      "assists": 0,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_hero_crystal_maiden": 719,
+        "npc_dota_hero_sven": 1021,
+        "npc_dota_creep_goodguys_melee": 2154,
+        "npc_dota_creep_badguys_ranged": 205,
+        "npc_dota_creep_goodguys_ranged": 1663,
+        "npc_dota_creep_badguys_melee": 528,
+        "npc_dota_goodguys_siege": 81
+      },
+      "damage_inflictor": {
+        "null": 847,
+        "earthshaker_fissure": 779,
+        "earthshaker_aftershock": 114
+      },
+      "damage_inflictor_received": {
+        "null": 955,
+        "crystal_maiden_frostbite": 447,
+        "sven_storm_bolt": 898,
+        "sven_great_cleave": 159
+      },
+      "damage_taken": {
+        "npc_dota_hero_crystal_maiden": 855,
+        "npc_dota_creep_goodguys_melee": 165,
+        "npc_dota_hero_sven": 1604,
+        "npc_dota_creep_goodguys_ranged": 121,
+        "npc_dota_goodguys_tower1_bot": 168
+      },
+      "damage_targets": null,
+      "deaths": 1,
+      "denies": 8,
+      "dn_t": [
+        0,
+        0,
+        1,
+        1,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        8,
+        8,
+        8
+      ],
+      "firstblood_claimed": 1,
+      "gold": 3302,
+      "gold_per_min": 443,
+      "gold_reasons": {
+        "0": 679,
+        "1": -101,
+        "5": 2362,
+        "12": 372,
+        "13": 698
+      },
+      "gold_spent": 1785,
+      "gold_t": [
+        0,
+        90,
+        181,
+        698,
+        907,
+        998,
+        1125,
+        1290,
+        1656,
+        1786,
+        4403,
+        4403,
+        4403
+      ],
+      "hero_damage": 1740,
+      "hero_healing": 0,
+      "hero_hits": {
+        "null": 19,
+        "earthshaker_fissure": 8,
+        "earthshaker_aftershock": 2
+      },
+      "hero_id": 7,
+      "item_0": 46,
+      "item_1": 0,
+      "item_2": 180,
+      "item_3": 0,
+      "item_4": 0,
+      "item_5": 0,
+      "item_neutral": 0,
+      "item_uses": {
+        "tango": 4,
+        "clarity": 2,
+        "arcane_boots": 5,
+        "tpscroll": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_creep_badguys_ranged": 2,
+        "npc_dota_hero_crystal_maiden": 1,
+        "npc_dota_creep_goodguys_ranged": 5,
+        "npc_dota_creep_badguys_melee": 6,
+        "npc_dota_creep_goodguys_melee": 11,
+        "npc_dota_goodguys_siege": 1
+      },
+      "killed_by": {
+        "npc_dota_hero_sven": 1
+      },
+      "kills": 1,
+      "kills_log": [
+        {
+          "time": 131,
+          "key": "npc_dota_hero_crystal_maiden"
+        }
+      ],
+      "lane_pos": {
+        "130": {
+          "100": 1,
+          "102": 3
+        },
+        "132": {
+          "98": 2,
+          "104": 1
+        },
+        "134": {
+          "94": 1,
+          "96": 1,
+          "106": 1
+        },
+        "136": {
+          "94": 2,
+          "108": 1
+        },
+        "138": {
+          "92": 2,
+          "94": 4
+        },
+        "140": {
+          "108": 1
+        },
+        "142": {
+          "88": 1,
+          "90": 1,
+          "92": 1,
+          "108": 1
+        },
+        "144": {
+          "88": 3,
+          "90": 1,
+          "110": 1
+        },
+        "146": {
+          "88": 3,
+          "112": 1,
+          "116": 1
+        },
+        "148": {
+          "86": 1,
+          "88": 2,
+          "118": 2
+        },
+        "150": {
+          "86": 2,
+          "120": 1,
+          "124": 1
+        },
+        "152": {
+          "86": 3,
+          "126": 1,
+          "128": 5
+        },
+        "154": {
+          "86": 1,
+          "88": 3,
+          "128": 6,
+          "130": 11,
+          "136": 1,
+          "138": 2
+        },
+        "156": {
+          "86": 2,
+          "90": 1,
+          "92": 1,
+          "128": 10,
+          "130": 10,
+          "132": 2,
+          "134": 1,
+          "136": 2,
+          "140": 1,
+          "142": 1
+        },
+        "158": {
+          "88": 1,
+          "92": 1,
+          "94": 2,
+          "98": 1,
+          "100": 1,
+          "104": 1,
+          "106": 1,
+          "108": 1,
+          "112": 1,
+          "114": 2,
+          "116": 4,
+          "126": 1,
+          "128": 3,
+          "146": 1,
+          "148": 1,
+          "150": 1
+        },
+        "160": {
+          "86": 3,
+          "88": 2,
+          "90": 1,
+          "96": 1,
+          "114": 1,
+          "116": 1,
+          "126": 1,
+          "128": 1,
+          "130": 1,
+          "152": 1
+        },
+        "162": {
+          "86": 1,
+          "88": 1,
+          "120": 1,
+          "122": 1,
+          "124": 1,
+          "126": 2,
+          "130": 1,
+          "154": 1
+        },
+        "164": {
+          "86": 6,
+          "88": 14,
+          "96": 1,
+          "114": 3,
+          "116": 1,
+          "126": 1,
+          "130": 1,
+          "156": 1
+        },
+        "166": {
+          "86": 4,
+          "88": 12,
+          "96": 1,
+          "112": 2,
+          "114": 1,
+          "126": 2
+        },
+        "168": {
+          "82": 1,
+          "84": 2,
+          "86": 3,
+          "88": 1,
+          "90": 2,
+          "92": 7,
+          "94": 2,
+          "96": 2,
+          "98": 1,
+          "100": 1,
+          "110": 2,
+          "112": 2,
+          "126": 1,
+          "130": 1,
+          "158": 1
+        },
+        "170": {
+          "84": 5,
+          "86": 6,
+          "88": 2,
+          "90": 1,
+          "92": 3,
+          "94": 4,
+          "96": 9,
+          "98": 2,
+          "100": 2,
+          "102": 1,
+          "110": 4,
+          "114": 1,
+          "128": 2,
+          "130": 1,
+          "158": 1
+        },
+        "172": {
+          "82": 5,
+          "84": 13,
+          "86": 12,
+          "88": 8,
+          "90": 3,
+          "92": 2,
+          "94": 3,
+          "96": 3,
+          "98": 3,
+          "100": 7,
+          "102": 5,
+          "104": 2,
+          "106": 3,
+          "108": 2,
+          "110": 1,
+          "130": 1,
+          "132": 1,
+          "160": 1
+        },
+        "174": {
+          "78": 1,
+          "80": 1,
+          "82": 2,
+          "84": 4,
+          "86": 6,
+          "88": 17,
+          "90": 6,
+          "92": 7,
+          "94": 4,
+          "96": 2,
+          "98": 5,
+          "100": 6,
+          "102": 18,
+          "104": 6,
+          "106": 1,
+          "108": 3,
+          "110": 2,
+          "112": 6,
+          "114": 2,
+          "116": 1,
+          "128": 4,
+          "134": 1,
+          "160": 1
+        },
+        "176": {
+          "80": 3,
+          "84": 3,
+          "88": 3,
+          "90": 3,
+          "92": 33,
+          "94": 7,
+          "96": 3,
+          "98": 1,
+          "100": 6,
+          "102": 7,
+          "104": 4,
+          "106": 4,
+          "108": 9,
+          "110": 4,
+          "120": 1,
+          "124": 1,
+          "126": 1,
+          "128": 1,
+          "130": 1,
+          "132": 1,
+          "134": 1,
+          "136": 2,
+          "138": 1,
+          "162": 1
+        },
+        "178": {
+          "84": 25,
+          "92": 5,
+          "94": 3,
+          "96": 1,
+          "98": 3,
+          "100": 6,
+          "102": 6,
+          "104": 5,
+          "106": 7,
+          "108": 6,
+          "110": 4,
+          "112": 7,
+          "114": 7,
+          "116": 4,
+          "118": 2,
+          "122": 1,
+          "124": 1,
+          "132": 1,
+          "134": 1,
+          "170": 1,
+          "172": 2
+        },
+        "180": {
+          "84": 1,
+          "86": 1,
+          "88": 1,
+          "96": 2,
+          "110": 3,
+          "112": 4,
+          "118": 2,
+          "164": 1,
+          "166": 1,
+          "168": 1,
+          "172": 1,
+          "174": 1
+        },
+        "182": {
+          "90": 1,
+          "92": 1,
+          "94": 2,
+          "96": 1,
+          "176": 11
+        }
+      },
+      "last_hits": 17,
+      "leaver_status": 1,
+      "level": 6,
+      "lh_t": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        4,
+        5,
+        12,
+        13,
+        17,
+        17,
+        17
+      ],
+      "life_state": {
+        "0": 726,
+        "1": 2,
+        "2": 13
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 514,
+        "max": true,
+        "inflictor": "earthshaker_fissure",
+        "unit": "npc_dota_hero_earthshaker",
+        "key": "npc_dota_hero_sven",
+        "value": 160,
+        "slot": 8,
+        "player_slot": 131
+      },
+      "multi_kills": {},
+      "net_worth": 4652,
+      "obs": {},
+      "obs_left_log": [],
+      "obs_log": [],
+      "obs_placed": 0,
+      "party_id": 1,
+      "party_size": 4,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pings": 3,
+      "pred_vict": false,
+      "purchase": {
+        "boots": 1,
+        "tango": 1,
+        "clarity": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1,
+        "tpscroll": 2,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "boots"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "clarity"
+        },
+        {
+          "time": 237,
+          "key": "arcane_boots"
+        },
+        {
+          "time": 237,
+          "key": "energy_booster"
+        },
+        {
+          "time": 492,
+          "key": "tpscroll"
+        },
+        {
+          "time": 570,
+          "key": "tpscroll"
+        }
+      ],
+      "randomed": true,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 1,
+      "runes": {
+        "5": 1
+      },
+      "runes_log": [
+        {
+          "time": 146,
+          "key": 5
+        }
+      ],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 10.264209,
+      "teamfight_participation": 0.5,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 0,
+      "towers_killed": 0,
+      "xp_per_min": 237,
+      "xp_reasons": {
+        "0": 62,
+        "1": 121,
+        "2": 2170
+      },
+      "xp_t": [
+        0,
+        51,
+        183,
+        386,
+        621,
+        805,
+        1027,
+        1136,
+        1686,
+        2026,
+        2353,
+        2353,
+        2353
+      ],
+      "team_number": 1,
+      "team_slot": 3,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": false,
+      "win": 0,
+      "lose": 1,
+      "total_gold": 4393,
+      "total_xp": 2350,
+      "kills_per_min": 0.10084033613445378,
+      "kda": 0.5,
+      "abandons": 0,
+      "neutral_kills": 0,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 24,
+      "hero_kills": 1,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 0,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.8898544866612773,
+      "lane_efficiency_pct": 88,
+      "lane": 1,
+      "lane_role": 3,
+      "is_roaming": false,
+      "purchase_time": {
+        "boots": -89,
+        "tango": -89,
+        "clarity": -89,
+        "arcane_boots": 237,
+        "energy_booster": 237,
+        "tpscroll": 1062
+      },
+      "first_purchase_time": {
+        "boots": -89,
+        "tango": -89,
+        "clarity": -89,
+        "arcane_boots": 237,
+        "energy_booster": 237,
+        "tpscroll": 492
+      },
+      "item_win": {
+        "boots": 0,
+        "tango": 0,
+        "clarity": 0,
+        "arcane_boots": 0,
+        "energy_booster": 0,
+        "tpscroll": 0
+      },
+      "item_usage": {
+        "boots": 1,
+        "tango": 1,
+        "clarity": 1,
+        "arcane_boots": 1,
+        "energy_booster": 1,
+        "tpscroll": 1
+      },
+      "purchase_tpscroll": 2,
+      "actions_per_min": 193,
+      "life_state_dead": 15,
+      "cosmetics": [
+        {
+          "item_id": 6400,
+          "name": "Arms of Deep Magma",
+          "prefab": "wearable",
+          "creation_date": "2014-04-21T00:00:00.000Z",
+          "image_inventory": "econ/items/earthshaker/deep_magma/deep_magma_arms",
+          "image_path": "icons/econ/items/earthshaker/deep_magma/deep_magma_arms.eb257863b6214367fba973249224a0ebacdb9bf6.png",
+          "item_description": "#DOTA_Item_Desc_Arms_of_Deep_Magma",
+          "item_name": "#DOTA_Item_Arms_of_Deep_Magma",
+          "item_rarity": null,
+          "item_type_name": "#DOTA_WearableType_Rocky_Arms",
+          "used_by_heroes": "npc_dota_hero_earthshaker"
+        },
+        {
+          "item_id": 6401,
+          "name": "Belt of Deep Magma",
+          "prefab": "wearable",
+          "creation_date": "2014-04-21T00:00:00.000Z",
+          "image_inventory": "econ/items/earthshaker/deep_magma/deep_magma_belt",
+          "image_path": "icons/econ/items/earthshaker/deep_magma/deep_magma_belt.38617358fc8f34d41172757f10b9595ec2e5931b.png",
+          "item_description": "#DOTA_Item_Desc_Belt_of_Deep_Magma",
+          "item_name": "#DOTA_Item_Belt_of_Deep_Magma",
+          "item_rarity": null,
+          "item_type_name": "#DOTA_WearableType_Belt",
+          "used_by_heroes": "npc_dota_hero_earthshaker"
+        },
+        {
+          "item_id": 6402,
+          "name": "Totem of Deep Magma",
+          "prefab": "wearable",
+          "creation_date": "2014-04-21T00:00:00.000Z",
+          "image_inventory": "econ/items/earthshaker/deep_magma/deep_magma_totem",
+          "image_path": "icons/econ/items/earthshaker/deep_magma/deep_magma_totem.e7f500798ad555fd88ff199bf8cd4bd537819a63.png",
+          "item_description": "#DOTA_Item_Desc_Totem_of_Deep_Magma",
+          "item_name": "#DOTA_Item_Totem_of_Deep_Magma",
+          "item_rarity": "legendary",
+          "item_type_name": "#DOTA_WearableType_Totem",
+          "used_by_heroes": "npc_dota_hero_earthshaker"
+        },
+        {
+          "item_id": 6403,
+          "name": "Horns of Deep Magma",
+          "prefab": "wearable",
+          "creation_date": "2014-04-21T00:00:00.000Z",
+          "image_inventory": "econ/items/earthshaker/egshakerhead/egshakerhead",
+          "image_path": "icons/econ/items/earthshaker/egshakerhead/egshakerhead.c30d92901079540ee0e70b2a0027591276cf8f3d.png",
+          "item_description": "#DOTA_Item_Desc_Horns_of_Deep_Magma",
+          "item_name": "#DOTA_Item_Horns_of_Deep_Magma",
+          "item_rarity": "uncommon",
+          "item_type_name": "#DOTA_WearableType_Horns_m",
+          "used_by_heroes": "npc_dota_hero_earthshaker"
+        },
+        {
+          "item_id": 10133,
+          "name": "Prismatic Drake",
+          "prefab": "courier",
+          "creation_date": null,
+          "image_inventory": "econ/courier/sillydragon/sillydragon",
+          "image_path": "icons/econ/courier/sillydragon/sillydragon.1d44760ab2c4d837f004406ac1906e776355a820.png",
+          "item_description": "#DOTA_Item_Desc_Prismatic_Drake",
+          "item_name": "#DOTA_Item_Prismatic_Drake",
+          "item_rarity": "mythical",
+          "item_type_name": null,
+          "used_by_heroes": null
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 443,
+          "pct": 0.41421647819063007
+        },
+        "xp_per_min": {
+          "raw": 237,
+          "pct": 0.011631663974151859
+        },
+        "kills_per_min": {
+          "raw": 0.10084033613445378,
+          "pct": 0.2516962843295638
+        },
+        "last_hits_per_min": {
+          "raw": 1.7142857142857142,
+          "pct": 0.06817447495961228
+        },
+        "hero_damage_per_min": {
+          "raw": 175.46218487394958,
+          "pct": 0.012600969305331179
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.8384491114701131
+        },
+        "tower_damage": {
+          "raw": 0,
+          "pct": 0.18836833602584815
+        }
+      }
+    },
+    {
+      "match_id": 3358909885,
+      "player_slot": 132,
+      "ability_targets": null,
+      "ability_upgrades_arr": [
+        5156,
+        5154,
+        5156
+      ],
+      "ability_uses": {
+        "sniper_shrapnel": 8
+      },
+      "account_id": 139791622,
+      "actions": {
+        "1": 729,
+        "2": 10,
+        "3": 5,
+        "4": 64,
+        "5": 2,
+        "7": 1,
+        "8": 1,
+        "11": 3,
+        "16": 7
+      },
+      "additional_units": null,
+      "assists": 0,
+      "backpack_0": 0,
+      "backpack_1": 0,
+      "backpack_2": 0,
+      "backpack_3": null,
+      "buyback_log": [],
+      "camps_stacked": 0,
+      "connection_log": null,
+      "creeps_stacked": 0,
+      "damage": {
+        "npc_dota_creep_goodguys_melee": 2615,
+        "npc_dota_hero_sven": 1388,
+        "npc_dota_hero_crystal_maiden": 158,
+        "npc_dota_creep_badguys_melee": 238,
+        "npc_dota_creep_goodguys_ranged": 546,
+        "npc_dota_goodguys_tower1_bot": 37,
+        "npc_dota_goodguys_siege": 57
+      },
+      "damage_inflictor": {
+        "null": 1227,
+        "sniper_shrapnel": 319
+      },
+      "damage_inflictor_received": {
+        "sven_storm_bolt": 132
+      },
+      "damage_taken": {
+        "npc_dota_creep_goodguys_melee": 318,
+        "npc_dota_hero_sven": 132,
+        "npc_dota_creep_goodguys_ranged": 130,
+        "npc_dota_goodguys_siege": 55
+      },
+      "damage_targets": null,
+      "deaths": 0,
+      "denies": 2,
+      "dn_t": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "firstblood_claimed": 0,
+      "gold": 0,
+      "gold_per_min": 125,
+      "gold_reasons": {
+        "0": 625,
+        "13": 347
+      },
+      "gold_spent": 820,
+      "gold_t": [
+        0,
+        90,
+        251,
+        380,
+        471,
+        635,
+        808,
+        945,
+        1036,
+        1127,
+        1249,
+        1249,
+        1249
+      ],
+      "hero_damage": 1546,
+      "hero_healing": 0,
+      "hero_hits": {
+        "null": 39,
+        "sniper_shrapnel": 29
+      },
+      "hero_id": 35,
+      "item_0": 44,
+      "item_1": 39,
+      "item_2": 75,
+      "item_3": 16,
+      "item_4": 16,
+      "item_5": 0,
+      "item_neutral": 0,
+      "item_uses": {
+        "tango": 1
+      },
+      "kill_streaks": {},
+      "killed": {
+        "npc_dota_creep_goodguys_melee": 7,
+        "npc_dota_creep_badguys_melee": 2,
+        "npc_dota_creep_goodguys_ranged": 2
+      },
+      "killed_by": {},
+      "kills": 0,
+      "kills_log": [],
+      "lane_pos": {
+        "156": {
+          "130": 27,
+          "132": 6,
+          "134": 1,
+          "136": 1,
+          "138": 1,
+          "140": 1,
+          "144": 1
+        },
+        "158": {
+          "128": 1,
+          "146": 1,
+          "148": 1,
+          "150": 1
+        },
+        "160": {
+          "128": 1,
+          "152": 1,
+          "154": 1
+        },
+        "162": {
+          "126": 1,
+          "154": 1
+        },
+        "164": {
+          "126": 1,
+          "156": 1
+        },
+        "166": {
+          "126": 1,
+          "158": 1
+        },
+        "168": {
+          "126": 1,
+          "158": 1
+        },
+        "170": {
+          "84": 8,
+          "86": 1,
+          "128": 1,
+          "160": 1,
+          "162": 1
+        },
+        "172": {
+          "82": 2,
+          "84": 2,
+          "86": 4,
+          "104": 1,
+          "106": 1,
+          "114": 1,
+          "120": 1,
+          "130": 1,
+          "164": 1,
+          "170": 1,
+          "172": 1,
+          "174": 1
+        },
+        "174": {
+          "84": 6,
+          "86": 28,
+          "88": 24,
+          "90": 1,
+          "92": 1,
+          "94": 1,
+          "96": 4,
+          "98": 3,
+          "100": 4,
+          "102": 6,
+          "104": 2,
+          "106": 2,
+          "110": 2,
+          "112": 2,
+          "114": 2,
+          "116": 4,
+          "118": 3,
+          "120": 3,
+          "122": 2,
+          "126": 1,
+          "128": 1,
+          "130": 2,
+          "132": 1,
+          "166": 1,
+          "168": 1,
+          "174": 6
+        },
+        "176": {
+          "86": 9,
+          "88": 14,
+          "90": 22,
+          "92": 17,
+          "94": 10,
+          "96": 9,
+          "98": 16,
+          "100": 13,
+          "102": 11,
+          "104": 6,
+          "106": 2,
+          "108": 2,
+          "110": 2,
+          "116": 1,
+          "118": 1,
+          "120": 1,
+          "122": 1,
+          "124": 1,
+          "126": 2,
+          "128": 3,
+          "130": 1,
+          "134": 1,
+          "136": 1,
+          "138": 1,
+          "140": 1,
+          "142": 1,
+          "144": 1,
+          "146": 1,
+          "148": 1,
+          "150": 1,
+          "152": 1,
+          "154": 1,
+          "158": 1,
+          "160": 1,
+          "162": 1,
+          "164": 1
+        },
+        "178": {
+          "90": 9,
+          "92": 31,
+          "94": 41,
+          "96": 27,
+          "98": 10,
+          "100": 9,
+          "102": 6,
+          "104": 30,
+          "110": 1,
+          "112": 1,
+          "114": 1,
+          "122": 1,
+          "124": 9,
+          "126": 7,
+          "128": 1,
+          "130": 2,
+          "132": 1,
+          "134": 1,
+          "138": 1,
+          "140": 1,
+          "166": 2,
+          "168": 2,
+          "170": 2,
+          "174": 1
+        },
+        "180": {
+          "92": 1,
+          "94": 3,
+          "96": 3,
+          "142": 1,
+          "144": 1,
+          "146": 1,
+          "148": 1,
+          "150": 1,
+          "152": 1,
+          "154": 1,
+          "158": 1,
+          "160": 1,
+          "162": 1,
+          "164": 1,
+          "172": 2,
+          "174": 3,
+          "176": 1,
+          "178": 84
+        },
+        "182": {
+          "92": 1,
+          "174": 1
+        },
+        "184": {
+          "94": 1,
+          "174": 28
+        }
+      },
+      "last_hits": 9,
+      "leaver_status": 2,
+      "level": 5,
+      "lh_t": [
+        0,
+        0,
+        2,
+        3,
+        3,
+        5,
+        7,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9
+      ],
+      "life_state": {
+        "0": 741
+      },
+      "max_hero_hit": {
+        "type": "max_hero_hit",
+        "time": 345,
+        "max": true,
+        "inflictor": null,
+        "unit": "npc_dota_hero_sniper",
+        "key": "npc_dota_hero_sven",
+        "value": 43,
+        "slot": 9,
+        "player_slot": 132
+      },
+      "multi_kills": {},
+      "net_worth": 820,
+      "obs": {},
+      "obs_left_log": [],
+      "obs_log": [],
+      "obs_placed": 0,
+      "party_id": 2,
+      "party_size": 1,
+      "performance_others": null,
+      "permanent_buffs": null,
+      "pings": 1,
+      "pred_vict": true,
+      "purchase": {
+        "tango": 1,
+        "flask": 1,
+        "circlet": 1,
+        "branches": 2,
+        "slippers": 1,
+        "recipe_wraith_band": 1,
+        "wraith_band": 1,
+        "dust": null
+      },
+      "purchase_log": [
+        {
+          "time": -70,
+          "key": "tango"
+        },
+        {
+          "time": -69,
+          "key": "flask"
+        },
+        {
+          "time": -68,
+          "key": "circlet"
+        },
+        {
+          "time": -67,
+          "key": "branches"
+        },
+        {
+          "time": -67,
+          "key": "branches"
+        },
+        {
+          "time": 34,
+          "key": "slippers"
+        },
+        {
+          "time": 150,
+          "key": "wraith_band"
+        }
+      ],
+      "randomed": false,
+      "repicked": null,
+      "roshans_killed": 0,
+      "rune_pickups": 0,
+      "runes": {},
+      "runes_log": [],
+      "sen": {},
+      "sen_left_log": [],
+      "sen_log": [],
+      "sen_placed": 0,
+      "stuns": 0,
+      "teamfight_participation": 0,
+      "times": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+      ],
+      "tower_damage": 0,
+      "towers_killed": 0,
+      "xp_per_min": 176,
+      "xp_reasons": {
+        "2": 1754
+      },
+      "xp_t": [
+        0,
+        51,
+        393,
+        727,
+        962,
+        1146,
+        1408,
+        1597,
+        1597,
+        1637,
+        1754,
+        1754,
+        1754
+      ],
+      "team_number": 1,
+      "team_slot": 4,
+      "hero_variant": 0,
+      "item_neutral2": 0,
+      "aghanims_scepter": 0,
+      "aghanims_shard": 0,
+      "moonshard": 0,
+      "personaname": "PrimeTime",
+      "name": null,
+      "last_login": null,
+      "rank_tier": null,
+      "computed_mmr": null,
+      "is_subscriber": false,
+      "radiant_win": true,
+      "start_time": 1502003021,
+      "duration": 595,
+      "cluster": 111,
+      "lobby_type": 0,
+      "game_mode": 22,
+      "is_contributor": false,
+      "patch": 25,
+      "region": 1,
+      "isRadiant": false,
+      "win": 0,
+      "lose": 1,
+      "total_gold": 1239,
+      "total_xp": 1745,
+      "kda": 0,
+      "abandons": 1,
+      "neutral_kills": 0,
+      "tower_kills": 0,
+      "courier_kills": 0,
+      "lane_kills": 11,
+      "hero_kills": 0,
+      "observer_kills": 0,
+      "sentry_kills": 0,
+      "roshan_kills": 0,
+      "necronomicon_kills": 0,
+      "ancient_kills": 0,
+      "buyback_count": 0,
+      "observer_uses": 0,
+      "sentry_uses": 0,
+      "lane_efficiency": 0.2524252223120453,
+      "lane_efficiency_pct": 25,
+      "lane": 1,
+      "lane_role": 3,
+      "is_roaming": false,
+      "purchase_time": {
+        "tango": -70,
+        "flask": -69,
+        "circlet": -68,
+        "branches": -134,
+        "slippers": 34,
+        "wraith_band": 150
+      },
+      "first_purchase_time": {
+        "tango": -70,
+        "flask": -69,
+        "circlet": -68,
+        "branches": -67,
+        "slippers": 34,
+        "wraith_band": 150
+      },
+      "item_win": {
+        "tango": 0,
+        "flask": 0,
+        "circlet": 0,
+        "branches": 0,
+        "slippers": 0,
+        "wraith_band": 0
+      },
+      "item_usage": {
+        "tango": 1,
+        "flask": 1,
+        "circlet": 1,
+        "branches": 1,
+        "slippers": 1,
+        "wraith_band": 1
+      },
+      "actions_per_min": 82,
+      "life_state_dead": 0,
+      "cosmetics": [
+        {
+          "item_id": 5433,
+          "name": "Hare Hunt Shoulders",
+          "prefab": "wearable",
+          "creation_date": "2013-09-17T00:00:00.000Z",
+          "image_inventory": "econ/items/sniper/hare_hunt_shoulders/hare_hunt_shoulders",
+          "image_path": "icons/econ/items/sniper/hare_hunt_shoulders/hare_hunt_shoulders.83988d9b0b9bf80964b8b6f9a6e49efae44e0f8b.png",
+          "item_description": "#DOTA_Item_Desc_Hare_Hunt_Shoulders",
+          "item_name": "#DOTA_Item_Hare_Hunt_Shoulders",
+          "item_rarity": null,
+          "item_type_name": "#DOTA_WearableType_Shoulders",
+          "used_by_heroes": "npc_dota_hero_sniper"
+        },
+        {
+          "item_id": 5739,
+          "name": "Bracers of The Howling Wolf",
+          "prefab": "wearable",
+          "creation_date": "2013-11-29T00:00:00.000Z",
+          "image_inventory": "econ/items/sniper/wolf_arms_bright/wolf_arms_bright",
+          "image_path": "icons/econ/items/sniper/wolf_arms_bright/wolf_arms_bright.e95cb3785f0d3f56db09236fa7307f911bd15150.png",
+          "item_description": "#DOTA_Item_Desc_Bracers_of_The_Howling_Wolf",
+          "item_name": "#DOTA_Item_Bracers_of_The_Howling_Wolf",
+          "item_rarity": null,
+          "item_type_name": "#DOTA_WearableType_Bracers",
+          "used_by_heroes": "npc_dota_hero_sniper"
+        }
+      ],
+      "benchmarks": {
+        "gold_per_min": {
+          "raw": 125,
+          "pct": 0
+        },
+        "xp_per_min": {
+          "raw": 176,
+          "pct": 0.004240710823909532
+        },
+        "kills_per_min": {
+          "raw": 0,
+          "pct": 0.009087237479806139
+        },
+        "last_hits_per_min": {
+          "raw": 0.907563025210084,
+          "pct": 0.0036348949919224557
+        },
+        "hero_damage_per_min": {
+          "raw": 155.89915966386556,
+          "pct": 0.004038772213247173
+        },
+        "hero_healing_per_min": {
+          "raw": 0,
+          "pct": 0.9355815831987075
+        },
+        "tower_damage": {
+          "raw": 0,
+          "pct": 0.07229402261712439
+        }
+      }
+    }
+  ],
+  "pre_game_duration": 90,
+  "flags": 1,
+  "od_data": {
+    "has_api": true,
+    "has_gcdata": false,
+    "has_parsed": false,
+    "has_archive": true
+  },
+  "metadata": null,
+  "patch": 25,
+  "region": 1,
+  "all_word_counts": {
+    "gg": 1
+  },
+  "my_word_counts": {},
+  "throw": 197,
+  "loss": 3799
+}
