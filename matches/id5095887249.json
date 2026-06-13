@@ -1,8 +1,18 @@
 {
+  "match_id": 5095887249,
   "players": [
     {
       "account_id": 839620989,
       "player_slot": 0,
+      "party_id": 0,
+      "permanent_buffs": [
+        {
+          "permanent_buff": 6,
+          "stack_count": 2,
+          "grant_time": 0
+        }
+      ],
+      "party_size": 1,
       "team_number": 0,
       "team_slot": 0,
       "hero_id": 91,
@@ -57,19 +67,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 415,
-          "pct": 0.796983758700696
+          "pct": 0.8195004029008863
         },
         "xp_per_min": {
           "raw": 458,
-          "pct": 0.3294663573085847
+          "pct": 0.32393231265108785
         },
         "kills_per_min": {
           "raw": 0.20066889632107024,
-          "pct": 0.877030162412993
+          "pct": 0.8936341659951652
         },
         "last_hits_per_min": {
           "raw": 1.680602006688963,
-          "pct": 0.6763341067285383
+          "pct": 0.7042707493956487
         },
         "hero_damage_per_min": {
           "raw": null
@@ -81,7 +91,11 @@
       }
     },
     {
+      "account_id": 85323624,
       "player_slot": 1,
+      "party_id": 1,
+      "permanent_buffs": [],
+      "party_size": 1,
       "team_number": 0,
       "team_slot": 1,
       "hero_id": 32,
@@ -110,6 +124,11 @@
       "aghanims_scepter": 0,
       "aghanims_shard": 0,
       "moonshard": 0,
+      "personaname": "CBAPLLIUK",
+      "name": null,
+      "last_login": null,
+      "rank_tier": 25,
+      "computed_mmr": null,
       "is_subscriber": false,
       "radiant_win": true,
       "start_time": 1572686733,
@@ -131,19 +150,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 520,
-          "pct": 0.5988764044943821
+          "pct": 0.5700041545492314
         },
         "xp_per_min": {
           "raw": 706,
-          "pct": 0.33202247191011236
+          "pct": 0.3020357291233901
         },
         "kills_per_min": {
           "raw": 0.32608695652173914,
-          "pct": 0.6511235955056179
+          "pct": 0.6348151225592024
         },
         "last_hits_per_min": {
           "raw": 3.9882943143812706,
-          "pct": 0.4764044943820225
+          "pct": 0.4790195263813876
         },
         "hero_damage_per_min": {
           "raw": null
@@ -155,7 +174,11 @@
       }
     },
     {
+      "account_id": 922066210,
       "player_slot": 2,
+      "party_id": 2,
+      "permanent_buffs": [],
+      "party_size": 1,
       "team_number": 0,
       "team_slot": 2,
       "hero_id": 21,
@@ -184,6 +207,11 @@
       "aghanims_scepter": 0,
       "aghanims_shard": 0,
       "moonshard": 0,
+      "personaname": "β€ρŤყώЌú ๏Ť βąԉ",
+      "name": null,
+      "last_login": null,
+      "rank_tier": null,
+      "computed_mmr": null,
       "is_subscriber": false,
       "radiant_win": true,
       "start_time": 1572686733,
@@ -205,19 +233,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 528,
-          "pct": 0.6807800872466
+          "pct": 0.6777609682299546
         },
         "xp_per_min": {
           "raw": 714,
-          "pct": 0.5727482678983834
+          "pct": 0.552571860816944
         },
         "kills_per_min": {
           "raw": 0.3762541806020067,
-          "pct": 0.8688734924300744
+          "pct": 0.8591149773071104
         },
         "last_hits_per_min": {
           "raw": 4.264214046822742,
-          "pct": 0.5224531691044393
+          "pct": 0.5187216338880484
         },
         "hero_damage_per_min": {
           "raw": null
@@ -229,7 +257,11 @@
       }
     },
     {
+      "account_id": 111118254,
       "player_slot": 3,
+      "party_id": 3,
+      "permanent_buffs": [],
+      "party_size": 1,
       "team_number": 0,
       "team_slot": 3,
       "hero_id": 67,
@@ -258,6 +290,11 @@
       "aghanims_scepter": 0,
       "aghanims_shard": 0,
       "moonshard": 0,
+      "personaname": "AsMoDeuS",
+      "name": null,
+      "last_login": null,
+      "rank_tier": 23,
+      "computed_mmr": 3783.31,
       "is_subscriber": false,
       "radiant_win": true,
       "start_time": 1572686733,
@@ -279,19 +316,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 586,
-          "pct": 0.45301624129930396
+          "pct": 0.47226485419864067
         },
         "xp_per_min": {
           "raw": 773,
-          "pct": 0.3558584686774942
+          "pct": 0.3600087700065775
         },
         "kills_per_min": {
           "raw": 0.2759197324414716,
-          "pct": 0.570185614849188
+          "pct": 0.5647884235913176
         },
         "last_hits_per_min": {
           "raw": 6.0200668896321075,
-          "pct": 0.2787122969837587
+          "pct": 0.3008112256084192
         },
         "hero_damage_per_min": {
           "raw": null
@@ -303,7 +340,17 @@
       }
     },
     {
+      "account_id": 186614883,
       "player_slot": 4,
+      "party_id": 4,
+      "permanent_buffs": [
+        {
+          "permanent_buff": 6,
+          "stack_count": 2,
+          "grant_time": 0
+        }
+      ],
+      "party_size": 1,
       "team_number": 0,
       "team_slot": 4,
       "hero_id": 84,
@@ -332,6 +379,11 @@
       "aghanims_scepter": 0,
       "aghanims_shard": 0,
       "moonshard": 0,
+      "personaname": "ka4yn",
+      "name": null,
+      "last_login": null,
+      "rank_tier": null,
+      "computed_mmr": null,
       "is_subscriber": false,
       "radiant_win": true,
       "start_time": 1572686733,
@@ -353,19 +405,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 391,
-          "pct": 0.2890557939914163
+          "pct": 0.29079263410728584
         },
         "xp_per_min": {
           "raw": 507,
-          "pct": 0.28991416309012874
+          "pct": 0.2896717373899119
         },
         "kills_per_min": {
           "raw": 0.02508361204013378,
-          "pct": 0.07145922746781116
+          "pct": 0.07574059247397918
         },
         "last_hits_per_min": {
           "raw": 2.1070234113712374,
-          "pct": 0.3605150214592275
+          "pct": 0.35356285028022416
         },
         "hero_damage_per_min": {
           "raw": null
@@ -377,7 +429,17 @@
       }
     },
     {
+      "account_id": 248651780,
       "player_slot": 128,
+      "party_id": 5,
+      "permanent_buffs": [
+        {
+          "permanent_buff": 6,
+          "stack_count": 1,
+          "grant_time": 0
+        }
+      ],
+      "party_size": 1,
       "team_number": 1,
       "team_slot": 0,
       "hero_id": 90,
@@ -406,6 +468,11 @@
       "aghanims_scepter": 0,
       "aghanims_shard": 0,
       "moonshard": 0,
+      "personaname": "Sadaw",
+      "name": null,
+      "last_login": null,
+      "rank_tier": null,
+      "computed_mmr": null,
       "is_subscriber": false,
       "radiant_win": true,
       "start_time": 1572686733,
@@ -427,19 +494,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 240,
-          "pct": 0.027137042062415198
+          "pct": 0.024613899613899613
         },
         "xp_per_min": {
           "raw": 652,
-          "pct": 0.45047489823609227
+          "pct": 0.4295366795366795
         },
         "kills_per_min": {
           "raw": 0.05016722408026756,
-          "pct": 0.13704206241519673
+          "pct": 0.15202702702702703
         },
         "last_hits_per_min": {
           "raw": 1.0785953177257523,
-          "pct": 0.023066485753052916
+          "pct": 0.02171814671814672
         },
         "hero_damage_per_min": {
           "raw": null
@@ -453,6 +520,9 @@
     {
       "account_id": 123163240,
       "player_slot": 129,
+      "party_id": 6,
+      "permanent_buffs": [],
+      "party_size": 1,
       "team_number": 1,
       "team_slot": 1,
       "hero_id": 35,
@@ -507,19 +577,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 381,
-          "pct": 0.10526315789473684
+          "pct": 0.10631067961165049
         },
         "xp_per_min": {
           "raw": 403,
-          "pct": 0.06359649122807018
+          "pct": 0.06516990291262136
         },
         "kills_per_min": {
           "raw": 0.05016722408026756,
-          "pct": 0.04048582995951417
+          "pct": 0.037014563106796114
         },
         "last_hits_per_min": {
           "raw": 5.493311036789297,
-          "pct": 0.35846828609986503
+          "pct": 0.3605582524271845
         },
         "hero_damage_per_min": {
           "raw": null
@@ -531,7 +601,11 @@
       }
     },
     {
+      "account_id": 914136043,
       "player_slot": 130,
+      "party_id": 7,
+      "permanent_buffs": [],
+      "party_size": 1,
       "team_number": 1,
       "team_slot": 2,
       "hero_id": 81,
@@ -560,6 +634,11 @@
       "aghanims_scepter": 0,
       "aghanims_shard": 0,
       "moonshard": 0,
+      "personaname": "Easy 007",
+      "name": null,
+      "last_login": null,
+      "rank_tier": null,
+      "computed_mmr": null,
       "is_subscriber": false,
       "radiant_win": true,
       "start_time": 1572686733,
@@ -581,19 +660,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 405,
-          "pct": 0.2552607502287283
+          "pct": 0.2630480167014614
         },
         "xp_per_min": {
           "raw": 531,
-          "pct": 0.2250686184812443
+          "pct": 0.22268615170494085
         },
         "kills_per_min": {
           "raw": 0.20066889632107024,
-          "pct": 0.434583714547118
+          "pct": 0.4439805149617258
         },
         "last_hits_per_min": {
           "raw": 3.7876254180602005,
-          "pct": 0.262580054894785
+          "pct": 0.27487821851078637
         },
         "hero_damage_per_min": {
           "raw": null
@@ -605,7 +684,22 @@
       }
     },
     {
+      "account_id": 126617979,
       "player_slot": 131,
+      "party_id": 8,
+      "permanent_buffs": [
+        {
+          "permanent_buff": 6,
+          "stack_count": 3,
+          "grant_time": 0
+        },
+        {
+          "permanent_buff": 7,
+          "stack_count": 2,
+          "grant_time": 0
+        }
+      ],
+      "party_size": 1,
       "team_number": 1,
       "team_slot": 3,
       "hero_id": 26,
@@ -634,6 +728,11 @@
       "aghanims_scepter": 0,
       "aghanims_shard": 0,
       "moonshard": 0,
+      "personaname": "про мидер",
+      "name": null,
+      "last_login": null,
+      "rank_tier": 14,
+      "computed_mmr": 3947.6,
       "is_subscriber": false,
       "radiant_win": true,
       "start_time": 1572686733,
@@ -655,19 +754,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 318,
-          "pct": 0.40357852882703776
+          "pct": 0.38547911314111716
         },
         "xp_per_min": {
           "raw": 417,
-          "pct": 0.21709741550695824
+          "pct": 0.1995432486440194
         },
         "kills_per_min": {
           "raw": 0.07525083612040134,
-          "pct": 0.2104705102717031
+          "pct": 0.19592730040917308
         },
         "last_hits_per_min": {
           "raw": 3.9381270903010033,
-          "pct": 0.908416169648774
+          "pct": 0.9083642592063945
         },
         "hero_damage_per_min": {
           "raw": null
@@ -681,6 +780,9 @@
     {
       "account_id": 163114553,
       "player_slot": 132,
+      "party_id": 9,
+      "permanent_buffs": [],
+      "party_size": 1,
       "team_number": 1,
       "team_slot": 4,
       "hero_id": 74,
@@ -735,19 +837,19 @@
       "benchmarks": {
         "gold_per_min": {
           "raw": 399,
-          "pct": 0.2733158001213838
+          "pct": 0.27075658826863136
         },
         "xp_per_min": {
           "raw": 578,
-          "pct": 0.3160024276755007
+          "pct": 0.30405213941626524
         },
         "kills_per_min": {
           "raw": 0.2508361204013378,
-          "pct": 0.6558769977746308
+          "pct": 0.6462170586568433
         },
         "last_hits_per_min": {
           "raw": 3.5618729096989967,
-          "pct": 0.36071211814687437
+          "pct": 0.3892037404363842
         },
         "hero_damage_per_min": {
           "raw": null
@@ -759,17 +861,19 @@
       }
     }
   ],
+  "series_id": 0,
+  "series_type": 0,
+  "cluster": 185,
+  "replay_salt": 1663043947,
   "radiant_win": true,
   "duration": 2392,
   "pre_game_duration": 90,
   "start_time": 1572686733,
-  "match_id": 5095887249,
   "match_seq_num": 4275503265,
   "tower_status_radiant": 1974,
   "tower_status_dire": 0,
   "barracks_status_radiant": 63,
   "barracks_status_dire": 0,
-  "cluster": 185,
   "first_blood_time": 126,
   "lobby_type": 7,
   "human_players": 10,
@@ -801,11 +905,12 @@
   ],
   "od_data": {
     "has_api": true,
-    "has_gcdata": false,
+    "has_gcdata": true,
     "has_parsed": false,
     "has_archive": false
   },
   "metadata": null,
+  "replay_url": "http://replay185.valve.net/570/5095887249_1663043947.dem.bz2",
   "patch": 41,
   "region": 8
 }
